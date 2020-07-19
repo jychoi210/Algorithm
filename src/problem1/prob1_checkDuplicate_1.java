@@ -1,4 +1,4 @@
-package problem;
+package problem1;
 
 // 문자열이 주어졌을 때, 이 문자열에 같은 문자가 중복되어 등장하는지 확인하는 알고리즘
 // 자료구조 사용하지 않고 풀기
@@ -11,7 +11,7 @@ package problem;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class prob1_1_1 {
+public class prob1_checkDuplicate_1 {
     public static void main(String args[]){
         String s;
         Scanner sc = new Scanner(System.in);

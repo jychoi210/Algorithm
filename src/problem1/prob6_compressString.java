@@ -1,8 +1,8 @@
-package problem;
+package problem1;
 
 import java.util.Scanner;
 
-public class prob1_6_1 {
+public class prob6_compressString {
     public static void main(String args[]){
         String input;
         Scanner sc = new Scanner(System.in);

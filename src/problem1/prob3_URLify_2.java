@@ -1,4 +1,4 @@
-package problem;
+package problem1;
 
 // 문자열에 들어가는 모든 공백을 '%20'으로 바꿔주는 메서드 작성
 // 충분한 공간이 확보되어 있으며, 최종 길이가 함께 주어진다고 가정해도 된다.
@@ -12,7 +12,7 @@ package problem;
 
 import java.util.Scanner;
 
-public class prob1_3_2 {
+public class prob3_URLify_2 {
     public static void main(String args[]){
         String inputChar, result, result2;
         Scanner sc = new Scanner(System.in);

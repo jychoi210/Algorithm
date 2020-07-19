@@ -1,8 +1,8 @@
-package problem;
+package problem1;
 
 import java.util.*;
 
-public class prob1_4_1 {
+public class prob4_palindromePermutation {
     public static void main(String args[]){
         String input;
         Scanner sc = new Scanner(System.in);

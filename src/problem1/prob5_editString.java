@@ -1,8 +1,8 @@
-package problem;
+package problem1;
 
 import java.util.Scanner;
 
-public class prob1_5_1 {
+public class prob5_editString {
     public static void main(String args[]){
         String input1, input2;
         Scanner sc = new Scanner(System.in);

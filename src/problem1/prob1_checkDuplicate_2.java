@@ -1,4 +1,4 @@
-package problem;
+package problem1;
 
 // 문자열이 주어졌을 때, 이 문자열에 같은 문자가 중복되어 등장하는지 확인하는 알고리즘
 // 자료구조 사용하여 풀기
@@ -9,7 +9,7 @@ package problem;
 /* 입력은 유니코드, 알파벳으로 가정한다. */
 import java.util.*;
 
-public class prob1_1_2 {
+public class prob1_checkDuplicate_2 {
     public static void main(String args[]){
         ArrayList<String> data = new ArrayList<>();
         HashSet<String> hashSet = new HashSet<>();
