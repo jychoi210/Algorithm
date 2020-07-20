@@ -23,10 +23,8 @@ public class prob2_searchKEelement {
         
         int size = list.size()-k+1;
         int result = 0;
-        
-        for(int i = 0; i < size; i++){
-            result = list.get(i);
-        }
+
+        result = list.get(size-1);
         
         System.out.println(result);
     }
