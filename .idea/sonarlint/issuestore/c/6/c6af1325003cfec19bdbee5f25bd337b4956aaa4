@@ -1,0 +1,7 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8À¬ù¹¶.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äã¡²
+^
+java:S2259"BA "NullPointerException" could be thrown; "prev" is nullable here.(¥¢šx8“Â¹Š·.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŽþÆ­
