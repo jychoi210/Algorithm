@@ -1,15 +1,0 @@
-
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë´÷êùÿÿÿÿ
-S
-java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
-f	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿûž¶
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë´÷êùÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Øë½åþÿÿÿÿ
-:
-java:S1659"$Declare "input2" on a separate line.(Ûèþ¢
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÁÞ¥ùÿÿÿÿ
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÁÞ¥ùÿÿÿÿ
-E
-java:S1066"/Merge this if statement with the enclosing one.(¦ïÓ 
-f	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿûž¶
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‡ ÊÛ

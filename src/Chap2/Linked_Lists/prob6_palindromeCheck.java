@@ -7,8 +7,7 @@ public class prob6_palindromeCheck {
         linkedList.insertNode("e");
         linkedList.insertNode("t");
         linkedList.insertNode("r");
-        linkedList.insertNode("e" +
-                "");
+        linkedList.insertNode("e");
         linkedList.insertNode("e");
         linkedList.insertNode("r");
 

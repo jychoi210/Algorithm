@@ -10,7 +10,6 @@ public class prob5_SumList_reverse {
         b.insertNode(6);
         b.insertNode(7);
 
-
         SumList_reverse(a.head,b.head).printList();
 
     }
@@ -31,36 +30,9 @@ public class prob5_SumList_reverse {
         }
 
         if(a == null){
-            while(b != null){
-                if(count == 1) {
-                    if((int)b.data+1 >= 10){
-                        result.insertNode((int)b.data+1 - 10);
-                        count = 1;
-                    }else {
-                        result.insertNode((int) b.data + 1);
-                        count = 0;
-                    }
-                }else {
-                    result.insertNode(b.data);
-                }
-                b = b.next;
-            }
+            result = differentLength(count,result,b);
         }else{
-            while(a != null){
-                if(count == 1) {
-                    if((int)a.data+1 > 10){
-                        result.insertNode((int)a.data + 1 - 10);
-                        count = 1;
-                    }else {
-                        result.insertNode((int) a.data + 1);
-                        count = 0;
-                    }
-                }else {
-                    result.insertNode(a.data);
-                }
-                a = a.next;
-            }
-
+            result = differentLength(count,result,a);
         }
 
         if(count == 1){
@@ -69,5 +41,23 @@ public class prob5_SumList_reverse {
 
         return result;
 
+    }
+    public static LinkedList differentLength(int count, LinkedList result, ListNode node){
+        while(node != null){
+            if(count == 1) {
+                if((int)node.data+1 >= 10){
+                    result.insertNode((int)node.data + 1 - 10);
+                    count = 1;
+                }else {
+                    result.insertNode((int)node.data + 1);
+                    count = 0;
+                }
+            }else {
+                result.insertNode(node.data);
+            }
+            node = node.next;
+        }
+
+        return result;
     }
 }

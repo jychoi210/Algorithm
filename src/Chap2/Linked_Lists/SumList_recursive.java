@@ -19,16 +19,15 @@ public class SumList_recursive {
         int count = 0;
         LinkedList result = new LinkedList();
 
-        while(a != null && b != null){
-            if((int)a.data + (int)b.data < 10){
-                result.insertNode((int)a.data + (int)b.data + count);
-                count = 0;
-            }else{
-                result.insertNode((int)a.data + (int)b.data - 10 + count);
-                count = 1;
-            }
-            a = a.next;
-            b = b.next;
+        if((int)a.data + (int)b.data < 10){
+            result.insertNode((int)a.data + (int)b.data + count);
+            count = 0;
+        }else{
+            result.insertNode((int)a.data + (int)b.data - 10 + count);
+            count = 1;
+        }
+        if(a != null && b!= null){
+            SumList_recursive(a.next,b.next);
         }
 
         if(a == null){
