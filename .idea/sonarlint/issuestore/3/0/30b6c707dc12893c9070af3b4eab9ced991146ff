@@ -1,22 +1,22 @@
 
-”
-java:S1319."rThe type of the "result" object should be an interface such as "List" rather than the implementation "LinkedList".(„àñüÿÿÿÿ8›ÂˆÔ·.
-S
-java:S2589"7Remove this expression which always evaluates to "true"(Àî!8Îé€İ·.
+“
+java:S1319."qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(„àñüÿÿÿÿ8›ÂˆÔ·.
 †
 java:S4165$"dRemove this useless assignment; "result" already holds the assigned value along all execution paths.(»‚šØüÿÿÿÿ8®“Ô·.
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯‡ÒÜûÿÿÿÿ
-i
-java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(×şÀ8‰ŒÆÓ·.
-“
-java:S1319."qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(„àñüÿÿÿÿ8Ù¼Ô·.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×şÀ8óˆÅÓ·.
+a
+java:S2583!"DChange this condition so that it does not always evaluate to "false"(‡á³8”ƒİ·.
+S
+java:S2589"7Remove this expression which always evaluates to "true"(Àî!8Îé€İ·.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8óˆÅÓ·.
 S
 java:S2589"7Remove this expression which always evaluates to "true"(Àî!8Îé€İ·.
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äã¡²
-Z
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8óˆÅÓ·.
-j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×şÀ8óˆÅÓ·.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯‡ÒÜûÿÿÿÿ
+”
+java:S1319."rThe type of the "result" object should be an interface such as "List" rather than the implementation "LinkedList".(„àñüÿÿÿÿ8Ù¼Ô·.
 
 java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(×şÀ8óˆÅÓ·.
-a
-java:S2583!"DChange this condition so that it does not always evaluate to "false"(‡á³8”ƒİ·.
+i
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(×şÀ8‰ŒÆÓ·.

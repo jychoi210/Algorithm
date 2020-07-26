@@ -1,5 +1,13 @@
 package Chap2.Linked_Lists;
 
+// 문자열이 주어졌을 때, 이 문자열에 같은 문자가 중복되어 등장하는지 확인하는 알고리즘
+// 자료구조 사용하지 않고 풀기
+// idea 1
+// 입력 받은 문자열의 공백 제거 후, 앞 뒤로 글자가 같은지 확인한다.
+// 문자열 길이가 N이라면, 시간 복잡도는 O(N)이다.
+
+/* 입력은 유니코드, 알파벳으로 가정한다. */
+
 import java.util.HashSet;
 
 public class prob8_findLoop_Runner {

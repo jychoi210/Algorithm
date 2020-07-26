@@ -1,12 +1,12 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰œ¼ãşÿÿÿÿ8ùáÚ«¶.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8†²Õ¶.
 <
 java:S1659" Declare "s2" on a separate line.(¥ûæ8ÒóÉ«¶.
 Z
 java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ØŸÈ«¶.
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•×•
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÅÜİ³øÿÿÿÿ
 <
 java:S1659" Declare "s3" on a separate line.(¥ûæ8ÒÅ‚Õ¶.
-O
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8†²Õ¶.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰œ¼ãşÿÿÿÿ8ùáÚ«¶.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÅÜİ³øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°Ô„Ëûÿÿÿÿ

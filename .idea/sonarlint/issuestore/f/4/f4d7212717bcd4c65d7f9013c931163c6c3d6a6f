@@ -1,14 +1,14 @@
 
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤ç§¸8Ã’º»¶.
-„
-java:S4165"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(ªÁßýüÿÿÿÿ8õó‘¿¶.
 g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(þ­»Ûøÿÿÿÿ
-Z
-java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8èñ¯»¶.
 ’
 java:S1319"pThe type of the "list" object should be an interface such as "List" rather than the implementation "LinkedList".(Î«ñÅÿÿÿÿÿ8‹”–½¶.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Òà´Ç8åõÖ»¶.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äã¡²
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8èñ¯»¶.
 “
 java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(Î«ñÅÿÿÿÿÿ8ÏŒŽ½¶.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤ç§¸8Ã’º»¶.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Òà´Ç8åõÖ»¶.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äã¡²
+„
+java:S4165"bRemove this useless assignment; "list" already holds the assigned value along all execution paths.(ªÁßýüÿÿÿÿ8õó‘¿¶.

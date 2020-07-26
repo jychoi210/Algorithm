@@ -1,11 +1,11 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°Ô„Ëûÿÿÿÿ
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ŸŸðí8¥õ¯ã¶.
-t
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¡ûïêÿÿÿÿÿ8üƒ²ã¶.
 M
 java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ñî÷Õ¶.
-Z
-java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8„Ñ÷Õ¶.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(¡ûïêÿÿÿÿÿ8üƒ²ã¶.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŸŸðí8¥õ¯ã¶.
 a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ûüâ]
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ8üƒ²ã¶.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°Ô„Ëûÿÿÿÿ
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8„Ñ÷Õ¶.
