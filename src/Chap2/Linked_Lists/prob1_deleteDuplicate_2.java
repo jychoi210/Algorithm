@@ -9,7 +9,7 @@ public class prob1_deleteDuplicate_2 {
         ArrayList<Integer> duplicate = new ArrayList<Integer>();
         ArrayList<Integer> result = new ArrayList<Integer>();
         int count = 0;
-        list.add(1);
+        list.add(7);
         list.add(3);
         list.add(9);
         list.add(7);

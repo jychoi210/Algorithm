@@ -42,7 +42,6 @@ public class prob4_StackToQueue {
 
         public void add(int item){
             myStack.push(item);
-            System.out.println("add");
         }
 
         public void change(){
@@ -78,7 +77,8 @@ public class prob4_StackToQueue {
         myQueue.add(9);
         myQueue.add(10);
 
-        System.out.println("why");
+        System.out.println(myQueue.peek());
+        myQueue.remove();
         System.out.println(myQueue.peek());
     }
 }

@@ -57,3 +57,13 @@ a
 1src/Chap2/Linked_Lists/prob8_findLoop_Runner.java,d/7/d790047894acf6d98a235dfe88e4dc25b74ad565
 i
 9src/Chap3/Stack_and_Queue/prob1_oneArraytoThreeStack.java,d/0/d00904949e2366d9b4d9647fa6e2ced9783bf3ac
+d
+4src/Chap3/Stack_and_Queue/prob3_Stack_of_Plates.java,4/a/4a350bb392292367da0e860ec4367f4b23eb7aae
+a
+1src/Chap3/Stack_and_Queue/prob4_StackToQueue.java,e/2/e2b0830850806ed5d9f4b5f8c75e8529913f07e3
+^
+.src/Chap3/Stack_and_Queue/prob2_Stack_Min.java,6/f/6f863d34c38d656edcbebdb116e1d64a046c6879
+_
+/src/Chap3/Stack_and_Queue/prob5_Stack_Sort.java,f/b/fbe727f1f233f26ec091cd567a618f2634c3a168
+c
+3src/Chap3/Stack_and_Queue/prob6_Animal_Shelter.java,5/c/5cb349eb4535c03c97d463d063b7ca3e37b86825
