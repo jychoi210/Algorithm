@@ -67,3 +67,5 @@ _
 /src/Chap3/Stack_and_Queue/prob5_Stack_Sort.java,f/b/fbe727f1f233f26ec091cd567a618f2634c3a168
 c
 3src/Chap3/Stack_and_Queue/prob6_Animal_Shelter.java,5/c/5cb349eb4535c03c97d463d063b7ca3e37b86825
+d
+4src/Chap1/Arrays_and_Strings/prob7_rotateMatrix.java,6/d/6d4f418b34eb0d1d6afdbbfff1483ced1e121cc8

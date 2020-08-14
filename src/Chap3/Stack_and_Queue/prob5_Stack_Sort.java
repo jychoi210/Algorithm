@@ -34,17 +34,33 @@ public class prob5_Stack_Sort {
         }
     }
     public static void main(String args[]){
+        MyStack myStack = new MyStack();
+        myStack.push(3);
+        myStack.push(6);
+        myStack.push(1);
+        myStack.push(9);
+        myStack.push(8);
+
+        MyStack result = stackSort(myStack);
+
+        while(!result.isEmpty()){
+            System.out.println(result.pop());
+        }
+
+        
 
     }
-    public static void stackSort(MyStack myStack){
+    public static MyStack stackSort(MyStack myStack){
         MyStack resultStack = new MyStack();
         int max = myStack.top.data;
         while(!myStack.isEmpty()){
             if(max < myStack.top.data){
                 max = myStack.top.data;
             }
+            resultStack.push(max);
             myStack.top = myStack.top.next;
         }
+        return resultStack;
     }
     public static void maxpop(MyStack myStack){
         MyStack resultStack = new MyStack();

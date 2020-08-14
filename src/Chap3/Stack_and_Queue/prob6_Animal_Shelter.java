@@ -102,5 +102,6 @@ public class prob6_Animal_Shelter {
         System.out.println(animalShelter.dequeueCat());
         System.out.println(animalShelter.dequeueCat());
         System.out.println(animalShelter.dequeueCat());
+        System.out.println(animalShelter.dequeueAny());
     }
 }

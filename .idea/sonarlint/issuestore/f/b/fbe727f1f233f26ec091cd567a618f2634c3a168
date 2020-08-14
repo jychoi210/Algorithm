@@ -1,18 +1,16 @@
 
-Z
-java:S1197$"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Ù‚ñá¸.
+v
+java:S41449"YUpdate this method so that its implementation is not identical to "stackSort" on line 47.(”ß²8ŞçÎî¸.
+c
+java:S1126 "AReplace this if-then-else statement by a single return statement.(óï–šşÿÿÿÿ8Í–ôá¸.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üˆõÏ
 e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Şœ®8ò‘êá¸.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ç™£Éıÿÿÿÿ
+L
+java:S14810"0Remove this unused "resultStack" local variable.(é¥ÍD8ë¦ùá¸.
 >
 java:S2326"!Integer is not used in the class.(Şœ®8ò‘êá¸.
 L
-java:S14812"0Remove this unused "resultStack" local variable.(é¥ÍD8êÙÌî¸.
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ç™£Éıÿÿÿÿ
-£
-java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡şÏÖøÿÿÿÿ8Ù‚ñá¸.
-L
-java:S1481("0Remove this unused "resultStack" local variable.(é¥ÍD8ë¦ùá¸.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üˆõÏ
-v
-java:S41441"YUpdate this method so that its implementation is not identical to "stackSort" on line 39.(”ß²8ŞçÎî¸.
-c
-java:S1126 "AReplace this if-then-else statement by a single return statement.(óï–šşÿÿÿÿ8Í–ôá¸.
+java:S1481:"0Remove this unused "resultStack" local variable.(é¥ÍD8êÙÌî¸.
+Z
+java:S1197$"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Ù‚ñá¸.
