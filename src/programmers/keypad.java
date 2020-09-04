@@ -15,6 +15,7 @@ public class keypad {
                 right = numbers[i];
             }
             else {
+                if( numbers[i] == 0 ) numbers[i] = 11;
                 int leftValue = Math.abs(numbers[i] - left);
                 int rightValue = Math.abs(right - numbers[i]);
 
