@@ -1,16 +1,16 @@
 
-Q
-java:S1066$"/Merge this if statement with the enclosing one.(¤”¸èúÿÿÿÿ8¡ŸÖÚ¸.
-e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Şœ®8®¶ûÙ¸.
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ö£²×
-y
-java:S1488,"\Immediately return this expression instead of assigning it to the temporary variable "item".(÷ˆÏı8°œ˜Û¸.
-Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ÖÓ§Æÿÿÿÿÿ8¨àÛ¸.
 Z
 java:S11971"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8â”åÙ¸.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(Ğ¤÷³8×ÔáÛ¸.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ö£²×
+Q
+java:S1066$"/Merge this if statement with the enclosing one.(¤”¸èúÿÿÿÿ8¡ŸÖÚ¸.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ÖÓ§Æÿÿÿÿÿ8¨àÛ¸.
 r
 java:S1104"PMake data a static final constant or non-public and provide accessors if needed.(ÅÖÔ´ùÿÿÿÿ8Èø Ö¸.
-U	java:S106="9Replace this use of System.out or System.err by a logger.(Ğ¤÷³8×ÔáÛ¸.
+y
+java:S1488,"\Immediately return this expression instead of assigning it to the temporary variable "item".(÷ˆÏı8°œ˜Û¸.
 >
 java:S2326"!Integer is not used in the class.(Şœ®8ŠÓıÙ¸.
+e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Şœ®8®¶ûÙ¸.
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üˆõÏ

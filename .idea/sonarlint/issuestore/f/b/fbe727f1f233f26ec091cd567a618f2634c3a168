@@ -1,16 +1,13 @@
 
-v
-java:S41449"YUpdate this method so that its implementation is not identical to "stackSort" on line 47.(”ß²8ŞçÎî¸.
-c
-java:S1126 "AReplace this if-then-else statement by a single return statement.(óï–šşÿÿÿÿ8Í–ôá¸.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üˆõÏ
-e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Şœ®8ò‘êá¸.
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ç™£Éıÿÿÿÿ
-L
-java:S14810"0Remove this unused "resultStack" local variable.(é¥ÍD8ë¦ùá¸.
 >
 java:S2326"!Integer is not used in the class.(Şœ®8ò‘êá¸.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üˆõÏ
+e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Şœ®8ò‘êá¸.
 L
-java:S1481:"0Remove this unused "resultStack" local variable.(é¥ÍD8êÙÌî¸.
+java:S1481B"0Remove this unused "resultStack" local variable.(é¥ÍD8Ê­ÛØ¾.
 Z
 java:S1197$"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Ù‚ñá¸.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ç™£Éıÿÿÿÿ
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ó¼³Îúÿÿÿÿ8ş·§Â¾.
+c
+java:S1126 "AReplace this if-then-else statement by a single return statement.(óï–šşÿÿÿÿ8Í–ôá¸.

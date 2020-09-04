@@ -69,6 +69,7 @@ public class prob5_Stack_Sort {
             if(max < myStack.top.data){
                 max = myStack.top.data;
             }
+
             myStack.top = myStack.top.next;
         }
 

@@ -69,3 +69,9 @@ c
 3src/Chap3/Stack_and_Queue/prob6_Animal_Shelter.java,5/c/5cb349eb4535c03c97d463d063b7ca3e37b86825
 d
 4src/Chap1/Arrays_and_Strings/prob7_rotateMatrix.java,6/d/6d4f418b34eb0d1d6afdbbfff1483ced1e121cc8
+]
+-src/Chap3/Stack_and_Queue/prob5_solution.java,2/2/22576d61ec512bdac0d80cdf72851b11a867e7ee
+g
+7src/Chap4/Tree_and_Graph/prob3_Depth_of_LinkedList.java,1/4/14e85eab24e143bd8347f5fc33d4b86e39d1b9d2
+G
+src/Hash/errorRate.java,b/b/bb7309eead49c5bba130b0d0b5365effb1a33478
