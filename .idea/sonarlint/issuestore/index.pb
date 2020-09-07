@@ -25,8 +25,6 @@ b
 2src/Chap1/Arrays_and_Strings/prob8_zeroMatrix.java,f/9/f91babc40ba617d189c185a333cd556a4e3b7e30
 d
 4src/Chap1/Arrays_and_Strings/prob8_zeroMatrix_2.java,d/e/de6cd2b5bc9bbbad364b69dc01cab25b88ac31cb
-K
-src/Hash/HashTableExam.java,9/e/9e4ce6ccd59d4d83f5f6a0e3ed42aa74d2cbb959
 V
 &src/Chap2/Linked_Lists/LinkedList.java,3/7/3773eae58d9eac7c71f3c3709706a688833ed127
 _
@@ -73,5 +71,11 @@ d
 -src/Chap3/Stack_and_Queue/prob5_solution.java,2/2/22576d61ec512bdac0d80cdf72851b11a867e7ee
 g
 7src/Chap4/Tree_and_Graph/prob3_Depth_of_LinkedList.java,1/4/14e85eab24e143bd8347f5fc33d4b86e39d1b9d2
-G
-src/Hash/errorRate.java,b/b/bb7309eead49c5bba130b0d0b5365effb1a33478
+K
+src/programmers/keypad.java,7/a/7a868ce890f61de0d785fc850b69723ee22d860c
+N
+src/programmers/errorRate.java,a/7/a70d4b57ac24a46966de6b2b513f0df30b0ff755
+V
+&src/programmers/StringCompression.java,c/d/cdb469010ca6ee2c1d27dad8c014ed46d894ee61
+V
+&src/programmers/bracketConversion.java,b/3/b3713d51ed9a0fa76efc9cf0316066efa2250add

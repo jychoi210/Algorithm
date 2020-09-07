@@ -33,7 +33,6 @@ public class errorRate {
         int index = 0;
         for(int j = 0; j < num; j++) {
             double max = Collections.max(hashSet);
-            System.out.println("max is " + max);
             for (int i = 0; i < errorRate.length; i++) {
                 if (errorRate[i] == max) {
                     answer[index] = i+1;

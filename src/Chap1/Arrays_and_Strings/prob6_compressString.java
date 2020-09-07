@@ -20,12 +20,12 @@ public class prob6_compressString {
             if(num[i].equals(num[i+1])){
                 count++;
             }else{
-                result = result + "" + num[i] + "" + count;
+                result = result + num[i] + "" + count;
                 count = 1;
             }
 
             if(i == input.length()-2){
-                result = result + "" + num[i] + "" + count;
+                result = result + num[i] + "" + count;
             }
         }
 

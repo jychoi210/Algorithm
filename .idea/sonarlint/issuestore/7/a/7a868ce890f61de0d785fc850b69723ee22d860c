@@ -1,0 +1,33 @@
+
+>
+java:S1643"Use a StringBuilder instead.(“òšÖÿÿÿÿÿ8‚ãÀÉÅ.
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(üöƒ†øÿÿÿÿ8‚ãÀÉÅ.
+;
+java:S2178"Correct this "|" to "||".(¿â‘Øúÿÿÿÿ8‚ãÀÉÅ.
+ƒ
+java:S2178"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(Ìøø¹8‚ãÀÉÅ.
+9
+java:S1643 "Use a StringBuilder instead.(ÒŒÍÔ8‚ãÀÉÅ.
+9
+java:S1643"Use a StringBuilder instead.(×İ¤¦8‚ãÀÉÅ.
+;
+java:S2178	"Correct this "|" to "||".(šË›ôûÿÿÿÿ8‚ãÀÉÅ.
+;
+java:S2178"Correct this "|" to "||".(¿â‘Øúÿÿÿÿ8‚ãÀÉÅ.
+9
+java:S1643
+"Use a StringBuilder instead.(ÒŒÍÔ8‚ãÀÉÅ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ö£Òº8‚ãÀÉÅ.
+;
+java:S2178	"Correct this "|" to "||".(šË›ôûÿÿÿÿ8‚ãÀÉÅ.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ƒÆğØşÿÿÿÿ8˜‰¸ÈÅ.
+>
+java:S1643#"Use a StringBuilder instead.(“òšÖÿÿÿÿÿ8‚ãÀÉÅ.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤“İ¸
+Z
+java:S1197,"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8‰ªıÈÅ.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(»‘¶à8‰ªıÈÅ.
+6
+java:S2178"Correct this "|" to "||".(Ìøø¹8‚ãÀÉÅ.
