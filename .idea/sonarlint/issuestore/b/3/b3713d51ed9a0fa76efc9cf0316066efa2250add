@@ -1,11 +1,9 @@
 
->
-java:S1643#"Use a StringBuilder instead.(µˆüÍùÿÿÿÿ8ë—¿Æ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ïâ—¹úÿÿÿÿ8ßÔ ¾Æ.
-c
-java:S1126"AReplace this if-then-else statement by a single return statement.(’·ÓØüÿÿÿÿ8Š´¦¾Æ.
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯ÌÀåıÿÿÿÿ
->
-java:S1643%"Use a StringBuilder instead.(¡òÛáøÿÿÿÿ8¸Ê¿Æ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ…Í€úÿÿÿÿ8Ó«‚ÉÆ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µ—³ıÿÿÿÿ8Ïô‡ÉÆ.
 Z
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ğô‰¾Æ.
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Ó«‚ÉÆ.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯ÌÀåıÿÿÿÿ8Ó«‚ÉÆ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ïâ—¹úÿÿÿÿ8Ïô‡ÉÆ.
+c
+java:S1126'"AReplace this if-then-else statement by a single return statement.(’·ÓØüÿÿÿÿ8Ó«‚ÉÆ.

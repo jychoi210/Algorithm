@@ -1,10 +1,10 @@
 
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å²ªøıÿÿÿÿ8›´ÀÅ.
 J	java:S108")Either remove or fill this block of code.(»ºØûÿÿÿÿ8óä”ÇÅ.
 Z
 java:S11973"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÒÒúÆÅ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å²ªøıÿÿÿÿ8›´ÀÅ.
 Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ŒÍ¿Éúÿÿÿÿ8ÒÒúÆÅ.
-Z	java:S106/"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ÒÒúÆÅ.
 b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ıÍÃ­
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ÒÒúÆÅ.
 ;
 java:S2178"Correct this "&" to "&&".(»ºØûÿÿÿÿ8óä”ÇÅ.
