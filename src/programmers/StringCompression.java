@@ -13,7 +13,7 @@ public class StringCompression {
         int answer = 0;
         int min = s.length();
         String[] temp = s.split("");
-        for(int i = 1; i < s.length()/2 + 2; i++){
+        for(int i = 1; i < s.length()/2 + 1; i++){
             for(int j = i - 1; j < s.length(); j+=i){
                 temp[j] = temp[j] + ";";
 
