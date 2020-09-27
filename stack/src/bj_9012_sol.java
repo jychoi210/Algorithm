@@ -8,7 +8,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class bj_stack2_sol {
+public class bj_9012_sol {
     public static void main(String args[]) throws Exception{
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
