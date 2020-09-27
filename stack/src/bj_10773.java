@@ -7,7 +7,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class bj_stack5 {
+public class bj_10773 {
     public static void main(String args[]) throws Exception{
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
