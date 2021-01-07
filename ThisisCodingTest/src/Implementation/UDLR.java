@@ -18,6 +18,8 @@ public class UDLR {
         int x = 1;
         int y = 1;
 
+        //입력받은 문자열을 차례로 확인
+        //위치를 벗어나지 않는다면 상하좌우에 맞게 이동
         for(int i = 0; i < udlr.length; i++){
             if(udlr[i].equals("U")){
                 if(x != 1) x -= 1;
