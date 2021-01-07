@@ -10,8 +10,10 @@ public class RoyalKnight {
         Scanner sc = new Scanner(System.in);
         String place = sc.nextLine();
         int result = 0;
+        //나이트 이동 경우의 수
         int[][] move = {{2,1},{2,-1},{-2,1},{-2,-1},{1,2},{1,-2},{-1,2},{-1,-2}};
 
+        //총 경우의 수인 8개만큼 반복, 이동해서 체스판을 벗어나지 않는다면 count
         for(int i =0; i < 8; i++){
             int x = place.charAt(0);
             int y = place.charAt(1);
