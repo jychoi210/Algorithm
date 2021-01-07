@@ -15,6 +15,7 @@ public class UntilOne {
         int K = Integer.parseInt(input[1]);
         int result = 0;
 
+        //K로 나누다가 안나누어지면 1을 계속 뺀다.
         while(N != 1){
             if(N % K == 0){
                 N = N / K;
