@@ -9,7 +9,6 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class GameDevelopment {
-    static int[] direction = {0, 1, 2, 3};
     static int[] dx = {0, -1, 0, 1};
     static int[] dy = {-1, 0, 1, 0};
     static int[][] map;
@@ -17,6 +16,7 @@ public class GameDevelopment {
     static int cnt = 0;
     static int result = 1;
 
+    //방향 회전 함수
     public static int rotate(int d){
         d = d -1;
         if(d < 0) d = 3;
@@ -24,39 +24,34 @@ public class GameDevelopment {
     }
 
     public static void move(int x, int y, int d){
-        int index = 0;
-        //System.out.println("x : " + x + " y : " + y);
-        for(int i = 0; i <4; i++) {
-            if (direction[i] == d) {
-                index = i;
-            }
-        }
-        //현재 위치의 왼쪽 좌표
-        int mx = x + dx[index];
-        int my = y + dy[index];
 
-        //map을 벗어나지 않는다면,
+        //현재 위치의 왼쪽 좌표
+        int mx = x + dx[d];
+        int my = y + dy[d];
+
+        //현재 위치의 왼쪽 좌표가 map을 벗어나지 않을 경우
         if (mx >= 0 && mx < n && my >= 0 && my < m) {
-            //만약 상하좌우 모두 회전한 경우
+
+            //만약 상하좌우 모두 회전했지만 방문할 곳이 없는 경우
             if (cnt == 4) {
-                x = x + dx[index] * (-1);
-                y = y + dy[index] * (-1);
+                x = x + dx[d] * (-1);
+                y = y + dy[d] * (-1);
                 if (map[x][y] != 0) return;
                 move(x, y, d);
             }
-            //System.out.println("mx : " + mx + " my : " + my + " map[mx][my] : " + map[mx][my] + " rotate : " + d);
-            //왼쪽 좌표가 방문하지 않은 땅이라면
+
+            //왼쪽 좌표가 방문하지 않은 땅이라면 왼쪽으로 이동하여 방문
             if (map[mx][my] == 0) {
                 result++;
                 cnt = 0;
                 x = mx;
                 y = my;
                 map[mx][my] = 2;
-                //System.out.println("왼쪽에 방문하지 않은 땅이 있으므로 방문한다.");
                 move(x,y,d);
-            } else {
+            }
+            //왼쪽 방향에 가보지 않은 칸이 없는 경우 왼쪽 방향으로 회전
+            else {
                 d = rotate(d);
-                //System.out.println("왼쪽에 방문하지않은 땅이 없으므로 회전한다.");
                 cnt++;
                 move(x, y, d);
             }
@@ -82,6 +77,7 @@ public class GameDevelopment {
             map[i] = col;
         }
 
+        //현재 땅을 방문한 것으로 간주하여 2로 변환(방문한 땅은 2)
         map[x][y] = 2;
         move(x,y,d);
 
