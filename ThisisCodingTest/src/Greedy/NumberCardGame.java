@@ -16,6 +16,7 @@ public class NumberCardGame {
         //int M = Integer.parseInt(NM[1]);
         int result = 0;
 
+        //입력받은 한 행 중 가장 작은 수를 찾은 후, 그 수 중에 가장 큰 수를 result에 저장
         for(int i = 0; i < N; i++){
             String[] input = br.readLine().split(" ");
             int[] num = Arrays.stream(input).mapToInt(Integer::parseInt).toArray();
