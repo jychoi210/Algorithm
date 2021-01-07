@@ -6,6 +6,7 @@ package Implementation;
 import java.util.Scanner;
 
 public class Time {
+    //3이 들어있는지 확인하는 함수
     public static boolean check(int h, int m, int s){
         if(h % 10 == 3 || m % 10 == 3 || m / 10 == 3 || s % 10 == 3 || s / 10 == 3) return true;
         return false;
@@ -16,6 +17,7 @@ public class Time {
         int n = sc.nextInt();
         int result = 0;
 
+        //시, 분, 초를 나누어 하나라도 3이 존재하면 count
         for(int i = 0; i <= n; i++){
             for(int m = 0; m < 60; m++){
                 for(int s = 0; s < 60; s++){
