@@ -5,6 +5,8 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+
+
 public class bj_binarySearch1{
     public static void main(String args[]) throws Exception{
         Scanner sc = new Scanner(System.in);

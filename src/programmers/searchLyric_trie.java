@@ -85,6 +85,6 @@ public class searchLyric_trie {
             trie.insert(words[i], i);
         }
 
-
+        return result;
     }
 }

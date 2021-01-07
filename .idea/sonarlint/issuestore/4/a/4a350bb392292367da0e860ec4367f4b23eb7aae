@@ -1,13 +1,13 @@
 
-e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(®éÿ«8šñ³İ¸.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üˆõÏ
 b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊüÉœ
 v	java:S116"URename this field "stack_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú ãûÿÿÿÿ8Äô—Ü¸.
-]	java:S125="<This block of commented-out lines of code should be removed.(˜ïˆÿÿÿÿÿ8˜ÓÚİ¸.
+e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(®éÿ«8šñ³İ¸.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üˆõÏ
+Z
+java:S1197-"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8œàÜ¸.
 B
 java:S2326" Object is not used in the class.(¾»äÏüÿÿÿÿ8ëıÂİ¸.
 j	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¾»äÏüÿÿÿÿ8ëıÂİ¸.
-Z
-java:S1197-"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8œàÜ¸.
+]	java:S125="<This block of commented-out lines of code should be removed.(˜ïˆÿÿÿÿÿ8˜ÓÚİ¸.
 =
 java:S2326" Object is not used in the class.(®éÿ«8’¿¿İ¸.

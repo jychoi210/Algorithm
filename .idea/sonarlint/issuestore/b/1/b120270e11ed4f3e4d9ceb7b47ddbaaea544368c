@@ -1,0 +1,14 @@
+
+X
+java:S1128"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ8°¸¦–Ì.
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8°¸¦–Ì.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ü«ŒÁùÿÿÿÿ
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(€™Éúúÿÿÿÿ8ÃÁÀ–Ì.
+Z
+java:S1197	"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8è£–Ì.
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8„ü©–Ì.
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8°¸¦–Ì.

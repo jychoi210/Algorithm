@@ -1,0 +1,15 @@
+
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ÁŠ¶ª8ƒ—¬ÝË.
+L
+java:S1066:"/Merge this if statement with the enclosing one.(·Ìð¢8ƒ—¬ÝË.
+{
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëØ‰àüÿÿÿÿ8ƒ—¬ÝË.
+Z
+java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8ƒ—¬ÝË.
+i	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô³¦Z8ƒ—¬ÝË.
+<
+java:S1659
+"Declare "m" on a separate line.(¦Ùï¬8ƒ—¬ÝË.
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(â‰å×8ƒ—¬ÝË.
+v
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎƒØé8ƒ—¬ÝË.

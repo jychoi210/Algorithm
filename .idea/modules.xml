@@ -3,6 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm_CodingInterview.iml" filepath="$PROJECT_DIR$/Algorithm_CodingInterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BFS/BFS.iml" filepath="$PROJECT_DIR$/BFS/BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS_fastcampus/CS_fastcampus.iml" filepath="$PROJECT_DIR$/CS_fastcampus/CS_fastcampus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThisisCodingTest/ThisisCodingTest.iml" filepath="$PROJECT_DIR$/ThisisCodingTest/ThisisCodingTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binarySearch/binarySearch.iml" filepath="$PROJECT_DIR$/binarySearch/binarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoPointer/twoPointer.iml" filepath="$PROJECT_DIR$/twoPointer/twoPointer.iml" />
     </modules>
   </component>
 </project>

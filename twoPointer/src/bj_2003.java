@@ -10,8 +10,8 @@ public class bj_2003 {
     public static void main(String args[]) throws Exception{
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(reader.readLine());
-
-        int end = 1;
+        int start = 0;
+        int end = 0;
         int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken());
         int result = 0;
@@ -22,6 +22,7 @@ public class bj_2003 {
             arr[i] = Integer.parseInt(st.nextToken());
         }
 
+        /*
         for(int i = 0; i < N-1; i++){
             end = i + 1;
             if(arr[i] == M){
@@ -43,6 +44,19 @@ public class bj_2003 {
         }
         if(arr[N-1] == M){
             result++;
+        }*/
+        int sum = 0;
+
+        while(end < N){
+            if(sum < M){
+                sum += arr[end++];
+            }else{
+                sum -= arr[start++];
+            }
+
+            if(sum == M){
+                result++;
+            }
         }
 
         System.out.println(result);

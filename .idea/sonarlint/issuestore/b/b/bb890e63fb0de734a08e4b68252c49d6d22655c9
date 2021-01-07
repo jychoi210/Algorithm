@@ -1,0 +1,11 @@
+
+J
+java:S1172"(Remove this unused method parameter "N".(€ƒçÀùÿÿÿÿ8ŸŠŞ˜Ì.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è¤»¬ùÿÿÿÿ
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ŸŠŞ˜Ì.
+{
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "answer".(åí¢é8ŸŠŞ˜Ì.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ƒçÀùÿÿÿÿ8ŸŠŞ˜Ì.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡şÏÖøÿÿÿÿ8ŸŠŞ˜Ì.
