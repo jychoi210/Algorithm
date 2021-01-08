@@ -1,5 +1,8 @@
 package DFS.BFS;
 
+// 이것이 코딩 테스트다.
+// Chapter 5 : DFS,BFS 문제 2 미로 탈출
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.LinkedList;
