@@ -1,8 +1,10 @@
 package DFS.BFS;
 
+// 이것이 코딩 테스트다.
+// Chapter 5 : DFS,BFS 문제 1 음료수 얼려 먹기
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 public class FreezingDrinks {
