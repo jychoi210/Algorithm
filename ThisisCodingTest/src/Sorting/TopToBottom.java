@@ -19,6 +19,8 @@ public class TopToBottom {
         }
         //입력 받은 배열 정렬
         Arrays.sort(arr);
+        //역순으로 정렬
+        //Arrays.sort(arr, Collections.reverseOrder());
 
         //거꾸로 출력하는 방법
         for(int i = N - 1; i >= 0; i--) {
