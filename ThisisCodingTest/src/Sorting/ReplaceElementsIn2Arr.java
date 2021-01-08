@@ -39,7 +39,7 @@ public class ReplaceElementsIn2Arr {
                 int temp = A[i];
                 A[i] = B[N-1-i];
                 B[N-1-i] = temp;
-            }
+            }else break;
         }
 
         int result = 0;
