@@ -1,11 +1,0 @@
-
-Ž
-java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾Žÿÿÿÿÿ8ÓÝžµË.
-Z	java:S1060"9Replace this use of System.out or System.err by a logger.(óŠÕÎÿÿÿÿÿ8ÓÝžµË.
-Z
-java:S1197"8Move the array designator from the variable to the type.(ùï¾Žÿÿÿÿÿ8ÓÝžµË.
-8
-java:S36261"Remove this redundant jump.(ûÁÝ…8ÓÝžµË.
-Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ8ÓÝžµË.
-n	java:S101
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Éú”»ýÿÿÿÿ8ß¤ŸµË.

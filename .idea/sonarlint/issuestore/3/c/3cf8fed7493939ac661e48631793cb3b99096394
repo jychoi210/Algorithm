@@ -1,8 +1,8 @@
 
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8ĞÇêŠî.
 Z
 java:S1197"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ8ÂÇãŠî.
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8ĞÇêŠî.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óû³ö
 Q
 java:S2864#"4Iterate over the "entrySet" instead of the "keySet".(Óƒƒ²8€ÉÌŒî.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óû³ö
 Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ŞêØÒúÿÿÿÿ8€ÉÌŒî.
