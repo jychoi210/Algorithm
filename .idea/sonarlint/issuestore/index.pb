@@ -195,3 +195,13 @@ g
 7ThisisCodingTest/src/Sorting/ReplaceElementsIn2Arr.java,1/0/109a00f4f2c122e4ef430a0832ff1dcc70d00648
 B
 BFS/src/Q2667.java,9/1/918d739305d3ba7f6389073f261384a5f2b1e357
+m
+=ThisisCodingTest/src/BinarySearch/BinarySearch_recursion.java,d/d/dd2ff249ff431377eac0020ff912061470348f23
+m
+=ThisisCodingTest/src/BinarySearch/BinarySearch_iterative.java,b/1/b1399a1da2f7763ee9bbb9df617fa68b98649515
+`
+0ThisisCodingTest/src/BinarySearch/FindParts.java,b/5/b528bfb70ae93cff5bdf2e9ba667e0113b7f2d20
+d
+4ThisisCodingTest/src/BinarySearch/FindParts_sol.java,c/6/c6888072f819ad1688ea7bb3253ba39e289b6bfc
+e
+5ThisisCodingTest/src/BinarySearch/MakingRiceCake.java,b/5/b595c48bbd4c19783d6b9951f7a4d39bc2311af8
