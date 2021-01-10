@@ -1,0 +1,10 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(şïıæûÿÿÿÿ8ÔÖòŠí.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úü’
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(ş¿Û8‹—ùŠí.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(½„¤‡8åùŞŠí.
+Z
+java:S1197"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ8ç»Ší.
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾ÿÿÿÿÿ8°êÂŠí.

@@ -1,0 +1,10 @@
+
+F
+java:S1659
+"$Declare "mindex" on a separate line.(×¼Á¤øÿÿÿÿ8ð»úˆî.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8Ç«Èˆî.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óû³ö
+U	java:S106"9Replace this use of System.out or System.err by a logger.(º¼É°8Ù‹ëˆî.
+U
+java:S1197"8Move the array designator from the variable to the type.(Õè·˜8ªžéˆî.
