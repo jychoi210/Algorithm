@@ -6,7 +6,7 @@ package GraphTheory;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class TeamFormation {
+public class TeamFormation { 
     //n개의 팀과 m개의 연산
     public static int n, m;
     //team 테이블 초기화
