@@ -2,8 +2,8 @@
 S
 java:S1197
 "8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¹÷
 k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(ÁÊÕ•şÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØÕÒ”
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¹÷
 S	java:S106>"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØÕÒ”
+V	java:S125"<This block of commented-out lines of code should be removed.(ÁÊÕ•şÿÿÿÿ

@@ -1,10 +1,10 @@
 
-S	java:S106*"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ
-1
-java:S36261"Remove this redundant jump.(ûÁÝ…
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹Ü’ü
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(óŠÕÎÿÿÿÿÿ
 ‡
 java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾Žÿÿÿÿÿ
 S
 java:S1197"8Move the array designator from the variable to the type.(ùï¾Žÿÿÿÿÿ
-S	java:S1060"9Replace this use of System.out or System.err by a logger.(óŠÕÎÿÿÿÿÿ
+1
+java:S36261"Remove this redundant jump.(ûÁÝ…

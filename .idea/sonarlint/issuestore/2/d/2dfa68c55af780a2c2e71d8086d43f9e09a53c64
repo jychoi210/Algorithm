@@ -1,8 +1,0 @@
-
-Z
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ØŸüÛÇ.
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Š£®ş
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÄ­8ØŸüÛÇ.
-t
-java:S3776
-"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¸¨± ùÿÿÿÿ8ØŸüÛÇ.
