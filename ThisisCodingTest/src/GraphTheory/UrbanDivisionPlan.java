@@ -5,7 +5,7 @@ package GraphTheory;
 // 문제는 마을을 2개로 분할할 계획이므로, 2개의 최소 신장 트리가 필요하다.
 // 최소 신장 트리를 우선 만들고, 그 중 가장 유지비가 큰 길을 빼면 2개의 최소 신장 트리가 만들어진다.
 
-import java.util.ArrayList;
+import java.util.ArrayList; 
 import java.util.Collections;
 import java.util.Scanner;
 
