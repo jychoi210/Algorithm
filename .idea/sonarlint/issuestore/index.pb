@@ -253,3 +253,13 @@ J
 BOJ/src/Greedy/Q11399.java,6/c/6ccf2620fb0988f855fb2a0579bd0705b5a64581
 I
 BOJ/src/Greedy/Q2839.java,e/1/e1f4faebc35a8a733832e93faac19ab68450ebfc
+c
+3ThisisCodingTest/src/Greedy/AmountNotAvailable.java,7/8/78b6b07d50a2a9e5857cbe6cc4c63e5ad4fb8a6d
+g
+7ThisisCodingTest/src/Greedy/AmountNotAvailable_sol.java,7/5/75ab20f047b8acbc6696e31f17739142caea24f3
+I
+BOJ/src/Greedy/Q1931.java,f/b/fb538e37fdcff4952a4a685f04f5509a69142bdf
+J
+BOJ/src/Greedy/Q11047.java,4/b/4bd3c5c19ae1b88f3beb7c98ae12a2969ac7e64e
+[
++ThisisCodingTest/src/Greedy/StringFlip.java,6/0/60d0c730d6c59bcebdc9a8a0a0e65661e4807649
