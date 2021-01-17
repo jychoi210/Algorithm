@@ -263,3 +263,13 @@ J
 BOJ/src/Greedy/Q11047.java,4/b/4bd3c5c19ae1b88f3beb7c98ae12a2969ac7e64e
 [
 +ThisisCodingTest/src/Greedy/StringFlip.java,6/0/60d0c730d6c59bcebdc9a8a0a0e65661e4807649
+I
+BOJ/src/Greedy/Q5585.java,5/e/5ea9a6823c2a518965483d1fceedb0b2c2473aab
+d
+4ThisisCodingTest/src/Greedy/ChoosingBowlingBall.java,a/d/adaf619f3a58960d2c881bf9edf853d734cc435d
+I
+BOJ/src/Greedy/Q2217.java,b/c/bc60ae2f87d8964f1eaa740f2c62ac2ff3387748
+^
+.ThisisCodingTest/src/Greedy/MujisLive_sol.java,f/5/f59be7ccd4cfcc386ece80975a5be3b4761aa3ab
+Z
+*ThisisCodingTest/src/Greedy/MujisLive.java,a/f/afdf9483031783a5c3f26189087243852238d611
