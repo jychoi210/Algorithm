@@ -1,6 +1,6 @@
 package Implementation;
 
-// 백준 그리디 Q2750 수 정렬하기
+// 백준 구현 Q2750 수 정렬하기
 // https://www.acmicpc.net/problem/2750
 // 오름차순으로 정렬하기
 
