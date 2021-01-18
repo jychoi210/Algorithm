@@ -1,6 +1,6 @@
 package Implementation;
 
-// 백준 그리디 Q1110 더하기 사이클
+// 백준 구현 Q1110 더하기 사이클
 // https://www.acmicpc.net/problem/1110
 // N의 사이클 구하기
 
