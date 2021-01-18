@@ -1,6 +1,6 @@
 package Implementation;
 
-// 백준 그리디 Q1110 더하기 사이클 해
+// 백준 구현 Q1110 더하기 사이클 해답
 // https://www.acmicpc.net/problem/1110
 // N의 사이클 구하기답
 // string이 아닌 숫자의 자리로 풀기
