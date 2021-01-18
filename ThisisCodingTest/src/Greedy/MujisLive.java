@@ -2,6 +2,8 @@ package Greedy;
 
 // 이것이 코딩 테스트다.
 // Chapter 11 : 그리디 기출 6 무지의 먹방 라이브
+// 프로그래머스 2019 카카오 신입 공채 (level 4)
+// https://programmers.co.kr/learn/courses/30/lessons/42891
 
 import java.util.LinkedList;
 import java.util.Queue;
