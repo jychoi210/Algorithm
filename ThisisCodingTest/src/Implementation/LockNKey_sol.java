@@ -7,8 +7,6 @@ package Implementation;
 
 // lock 배열의 3배 크기의 배열을 만듦
 
-import java.util.Arrays;
-
 public class LockNKey_sol {
     public static boolean unlock(int[][] key, int[][] lock){
         //자물쇠와 열쇠 배열 크기 저장
