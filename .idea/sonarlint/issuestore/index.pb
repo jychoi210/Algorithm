@@ -287,3 +287,13 @@ U
 %BOJ/src/Implementation/Q1110_sol.java,f/8/f848dc856c8ac54f50e1edbd7a17e62bdf2a8a88
 Q
 !BOJ/src/Implementation/Q2750.java,5/7/575e26092f937e1659f5fced4a768638d074b41a
+e
+5ThisisCodingTest/src/Implementation/LockNKey_sol.java,a/b/ab5127e552b949e1e131a853663b86336b80152e
+Q
+!BOJ/src/Implementation/Q1924.java,c/b/cbb488ad589fffe2b33c96f623bed14fc5a65798
+j
+:ThisisCodingTest/src/Implementation/StringCompression.java,2/8/28837f00f46ae3002ad0202296120477ffebf20b
+q
+AThisisCodingTest/src/Implementation/StringCompression_before.java,9/9/9998a095fe03f582f5f5f030f71d15a6c8794d37
+a
+1ThisisCodingTest/src/Implementation/LockNKey.java,1/7/179708c22be58c52514ecbc33d923cd92adf11bd
