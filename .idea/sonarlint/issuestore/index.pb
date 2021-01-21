@@ -309,3 +309,13 @@ n
 >ThisisCodingTest/src/Implementation/InstallingColumnNBeam.java,7/7/77ce4a40aade142c7352d6ec15e718e13e1c78a0
 Q
 !BOJ/src/Implementation/Q1157.java,f/2/f2d7d539dcad7c7fd7d3b7908dea56a60b242714
+U
+%BOJ/src/Implementation/Q1157_sol.java,3/e/3e5001de5c0f9b4c90a4d6f375a708f65c90d24d
+h
+8ThisisCodingTest/src/Implementation/ChickenDelivery.java,6/4/648ad10710f286e3f4245c6f062b8909e9f5c1d9
+l
+<ThisisCodingTest/src/Implementation/ChickenDelivery_sol.java,3/f/3fd37281bd0620a938e9edc6bb8d643a4874caa8
+o
+?ThisisCodingTest/src/Implementation/ExteriorWallInspection.java,4/1/419c7695bd293a53e833c6149eb480c05dc3c310
+s
+CThisisCodingTest/src/Implementation/ExteriorWallInspection_sol.java,2/8/28667ba577ac2b19e4890db6aa750af712f0daf9
