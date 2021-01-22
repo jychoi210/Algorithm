@@ -5,6 +5,10 @@ package Implementation;
 // 프로그래머스 2020 카카오 신입 공채 (level 3)
 // https://programmers.co.kr/learn/courses/30/lessons/60061
 
+// 설치하거나 삭제할 수 있는 경우의 수를 모두 따지기 보다 우선 설치/삭제를 한 후 가능한지 확인하는 방법
+// ArrayList<ArrayList<Integer>>에 저장한 후, ArrayList<Node>에 담아 정렬
+// 정렬 한 후 이차원 배열 형태로 변환
+
 import java.util.ArrayList;
 import java.util.Collections;
 
