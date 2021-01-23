@@ -37,7 +37,7 @@ public class Laboratory_sol {
     }
 
     //0인 경우만 세서 안전 영역 세기
-    public static int counfSafeArea(){
+    public static int countSafeArea(){
         int safeArea = 0;
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
@@ -68,7 +68,7 @@ public class Laboratory_sol {
             }
 
             //result와 벽 3개 설치 했을 때 영역 중 큰 것 선택
-            result = Math.max(result, counfSafeArea());
+            result = Math.max(result, countSafeArea());
             return;
         }
 
