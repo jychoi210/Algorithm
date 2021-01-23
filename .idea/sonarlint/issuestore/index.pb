@@ -305,8 +305,6 @@ b
 2ThisisCodingTest/src/Implementation/Snake_sol.java,5/2/5268af3fdc13f1cf39a6d8b32c44d548faf6d947
 r
 BThisisCodingTest/src/Implementation/InstallingColumnNBeam_sol.java,0/b/0b7bb18f13e70e84a08b731c4011e0bde75d7ee5
-n
->ThisisCodingTest/src/Implementation/InstallingColumnNBeam.java,7/7/77ce4a40aade142c7352d6ec15e718e13e1c78a0
 Q
 !BOJ/src/Implementation/Q1157.java,f/2/f2d7d539dcad7c7fd7d3b7908dea56a60b242714
 U
@@ -327,3 +325,15 @@ i
 9ThisisCodingTest/src/DFS/BFS/FindingSpecificDistance.java,7/b/7b7eeed8a360a0c673b71d70f7394c251a64c73f
 `
 0ThisisCodingTest/src/DFS/BFS/Laboratory_sol.java,f/8/f8cdddfe1514602d460cec7d606ecf475ad23868
+g
+7ThisisCodingTest/src/DFS/BFS/CompetitiveInspection.java,8/1/81a9df395b5fd7920755aa5b75a5a6839577db94
+n
+>ThisisCodingTest/src/DFS/BFS/ParenthesisConversion_before.java,d/9/d9c070260ecfbb50914fd23fb0c03120d18a527a
+g
+7ThisisCodingTest/src/DFS/BFS/ParenthesisConversion.java,8/5/8587a21185cc6bd0af93c57b917fbe6c8de4087d
+`
+0ThisisCodingTest/src/DFS/BFS/InsertOperator.java,1/2/12b1cdd5909c9e4b4e2875454cfa43bd407ed529
+d
+4ThisisCodingTest/src/DFS/BFS/InsertOperator_sol.java,4/5/454fb29a9c9d3ff348549e7353fe4dc3ed6aa6fd
+f
+6ThisisCodingTest/src/DFS/BFS/AvoidingSurveillance.java,f/f/ffa67cfd53f20fc5858eaf6818e5e7bbe3a285eb
