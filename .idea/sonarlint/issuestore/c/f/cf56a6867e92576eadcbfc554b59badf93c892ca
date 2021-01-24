@@ -1,8 +1,10 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óû³ö
-g	java:S101'"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—Œú£øÿÿÿÿ
+g	java:S101("MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—Œú£øÿÿÿÿ
 Z
-java:S1197("8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8œŒÕî.
-U	java:S1067"9Replace this use of System.out or System.err by a logger.(ØÓÇè8‡âî.
+java:S1197)"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8œŒÕî.
+H
+java:S1068"+Remove this unused "english" private field.(–’Õ€8ğÈ×ó.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óû³ö
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ØÓÇè8‡âî.
 {
-java:S1210!"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Î²›øÿÿÿÿ8ÜĞÌî.
+java:S1210""YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Î²›øÿÿÿÿ8ÜĞÌî.
