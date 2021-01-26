@@ -1,22 +1,22 @@
 
-q
-java:S1104"OMake map a static final constant or non-public and provide accessors if needed.(÷Ìê¢úÿÿÿÿ8‰÷‹‘î.
-K
-java:S1444")Make this "public static map" field final(÷Ìê¢úÿÿÿÿ8‰÷‹‘î.
-U	java:S106/"9Replace this use of System.out or System.err by a logger.(ŸÏÍè8ıûË‘î.
-Z	java:S106,"9Replace this use of System.out or System.err by a logger.(İ˜½…ùÿÿÿÿ8±È½‘î.
 n
 java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜßŞÒûÿÿÿÿ8ÆÖ”‘î.
-?
-java:S2386"Make this member "protected".(÷Ìê¢úÿÿÿÿ8‰÷‹‘î.
-Z
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8±È½‘î.
-I
-java:S1444",Make this "public static result" field final(–¨ÉŠ8€ùÇ‘î.
-I
-java:S1444"'Make this "public static N" field final(ÜßŞÒûÿÿÿÿ8ÆÖ”‘î.
-o
-java:S1104"RMake result a static final constant or non-public and provide accessors if needed.(–¨ÉŠ8€ùÇ‘î.
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©¸»öùÿÿÿÿ8îò¿Şî.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(İ˜½…ùÿÿÿÿ8±È½‘î.
 o
 java:S1104"MMake N a static final constant or non-public and provide accessors if needed.(ÜßŞÒûÿÿÿÿ8ÆÖ”‘î.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©¸»öùÿÿÿÿ8îò¿Şî.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8±È½‘î.
+K
+java:S1444")Make this "public static map" field final(÷Ìê¢úÿÿÿÿ8‰÷‹‘î.
+o
+java:S1104"RMake result a static final constant or non-public and provide accessors if needed.(–¨ÉŠ8€ùÇ‘î.
+I
+java:S1444"'Make this "public static N" field final(ÜßŞÒûÿÿÿÿ8ÆÖ”‘î.
+q
+java:S1104"OMake map a static final constant or non-public and provide accessors if needed.(÷Ìê¢úÿÿÿÿ8‰÷‹‘î.
+?
+java:S2386"Make this member "protected".(÷Ìê¢úÿÿÿÿ8‰÷‹‘î.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ŸÏÍè8ıûË‘î.
+I
+java:S1444",Make this "public static result" field final(–¨ÉŠ8€ùÇ‘î.
