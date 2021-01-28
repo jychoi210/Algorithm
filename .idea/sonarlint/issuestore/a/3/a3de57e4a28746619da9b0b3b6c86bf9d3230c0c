@@ -1,19 +1,8 @@
 
-b	java:S101
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ×ğ¼
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔŞÅÄ8§¸Ôî.
-l	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©‰è8§¸Ôî.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¼¿ø8—Ä––ô.
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óéÂ¨şÿÿÿÿ
-i	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÀÈb8§¸Ôî.
-m	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÇ°ß8§¸Ôî.
-j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔŞÅÄ8§¸Ôî.
-l	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÀÈb8§¸Ôî.
-C
-java:S1481G"&Remove this unused "x" local variable.(­ä£Á8±›“Ôî.
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÖá·úÿÿÿÿ8§¸Ôî.
 Z
-java:S1197D"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8¤¢Ôî.
-l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©‰è8§¸Ôî.
-j	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÇ°ß8§¸Ôî.
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÖá·úÿÿÿÿ8§¸Ôî.
-U	java:S106S"9Replace this use of System.out or System.err by a logger.(“íãí8Ú†—Ôî.
+java:S1197 "8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8­ùàÓî.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìğ“¸øÿÿÿÿ8äúî—ô.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ÖæÛ¦8¯óˆ–ô.
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ×ğ¼8Ãéò—ô.

@@ -357,3 +357,5 @@ F
 -ThisisCodingTest/src/Sorting/FailureRate.java,2/e/2e3f4ea268a45b556359fd1a51b960d0025c5184
 d
 4ThisisCodingTest/src/Sorting/FailureRate_before.java,a/1/a11965f8c6f01d70226377719d8a9fc6549d08fd
+h
+8ThisisCodingTest/src/BinarySearch/FindingFixedPoint.java,4/d/4d4c54d6441d13d3a439cb5736359d88095401b8
