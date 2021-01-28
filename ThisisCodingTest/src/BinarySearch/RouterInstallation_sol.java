@@ -1,7 +1,7 @@
 package BinarySearch;
 
 // 이것이 코딩테스트다.
-// Chapter 15 : 이진 탐색 기출 3 공유기 설치
+// Chapter 15 : 이진 탐색 기출 3 공유기 설치 해답
 // https://www.acmicpc.net/problem/2110
 
 import java.io.BufferedReader;
