@@ -359,3 +359,7 @@ d
 4ThisisCodingTest/src/Sorting/FailureRate_before.java,a/1/a11965f8c6f01d70226377719d8a9fc6549d08fd
 h
 8ThisisCodingTest/src/BinarySearch/FindingFixedPoint.java,4/d/4d4c54d6441d13d3a439cb5736359d88095401b8
+g
+7ThisisCodingTest/src/BinarySearch/SearchLyrics_sol.java,1/a/1ad2a01601416fee22146233dcfe470ca7b5d1af
+m
+=ThisisCodingTest/src/BinarySearch/RouterInstallation_sol.java,b/0/b01c6376f2aba83d097cc3cae74cb8045e422ecc
