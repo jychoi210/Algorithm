@@ -363,3 +363,9 @@ g
 7ThisisCodingTest/src/BinarySearch/SearchLyrics_sol.java,1/a/1ad2a01601416fee22146233dcfe470ca7b5d1af
 m
 =ThisisCodingTest/src/BinarySearch/RouterInstallation_sol.java,b/0/b01c6376f2aba83d097cc3cae74cb8045e422ecc
+e
+5ThisisCodingTest/src/DynamicProgramming/GoldMine.java,a/b/ab7a1410cb13f0c8a22ea6d30c63bc8f4034c21a
+i
+9ThisisCodingTest/src/DynamicProgramming/GoldMine_sol.java,5/b/5b87527d6d3935152fcdbe51b35d56718f117387
+l
+<ThisisCodingTest/src/DynamicProgramming/IntegerTriangle.java,3/d/3d6fedfeff4200303e6411eaebf0a90c715e93c4
