@@ -369,3 +369,9 @@ i
 9ThisisCodingTest/src/DynamicProgramming/GoldMine_sol.java,5/b/5b87527d6d3935152fcdbe51b35d56718f117387
 l
 <ThisisCodingTest/src/DynamicProgramming/IntegerTriangle.java,3/d/3d6fedfeff4200303e6411eaebf0a90c715e93c4
+r
+BThisisCodingTest/src/DynamicProgramming/DeployingSoldiers_sol.java,2/3/2311e75009b6582223be2bc67e7cac1c738f8d02
+g
+7ThisisCodingTest/src/DynamicProgramming/Retirement.java,a/4/a4b41e8e74acb56eeaea226e2a1135aa19b5788b
+n
+>ThisisCodingTest/src/DynamicProgramming/DeployingSoldiers.java,3/1/319536d60067dededd41f6e80fa75ca109fc6fb0
