@@ -375,3 +375,5 @@ g
 7ThisisCodingTest/src/DynamicProgramming/Retirement.java,a/4/a4b41e8e74acb56eeaea226e2a1135aa19b5788b
 n
 >ThisisCodingTest/src/DynamicProgramming/DeployingSoldiers.java,3/1/319536d60067dededd41f6e80fa75ca109fc6fb0
+g
+7ThisisCodingTest/src/DynamicProgramming/UglyNumber.java,b/1/b1b33af0285c1fec4d51b6b82f69a8a020877ef8
