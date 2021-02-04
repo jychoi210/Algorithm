@@ -1,49 +1,49 @@
 
-j
-java:S1104"MMake m a static final constant or non-public and provide accessors if needed.(æÙˆ8ˆÕ ëí.
-J
-java:S1444"-Make this "public static visited" field final(÷ç È8ˆÕ ëí.
-L
-java:S1066""/Merge this if statement with the enclosing one.(èÚö”8ÿö÷ëí.
-D
-java:S1444"'Make this "public static n" field final(æÙˆ8ˆÕ ëí.
-J
-java:S1444"(Make this "public static dx" field final(˜·ªúÿÿÿÿ8°ı¨ëí.
-J
-java:S1444"(Make this "public static dy" field final(½•ËÙıÿÿÿÿ8°ı¨ëí.
+p
+java:S1104"NMake dx a static final constant or non-public and provide accessors if needed.(˜·ªúÿÿÿÿ8°ı¨ëí.
 T
 java:S1197"8Move the array designator from the variable to the type.(‘½˜)8ˆÕ ëí.
-<
-java:S1659"Declare "m" on a separate line.(æÙˆ8ˆÕ ëí.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ÁŠ¶ª8™äôëí.
+L
+java:S1066""/Merge this if statement with the enclosing one.(èÚö”8ÿö÷ëí.
 Z
 java:S1197"8Move the array designator from the variable to the type.(½•ËÙıÿÿÿÿ8°ı¨ëí.
-j
-java:S1104"MMake n a static final constant or non-public and provide accessors if needed.(æÙˆ8ˆÕ ëí.
+J
+java:S1444"(Make this "public static dx" field final(˜·ªúÿÿÿÿ8°ı¨ëí.
 :
 java:S2386"Make this member "protected".(÷ç È8ˆÕ ëí.
 Z
 java:S1197"8Move the array designator from the variable to the type.(˜·ªúÿÿÿÿ8°ı¨ëí.
-Z
-java:S1197-"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ8ØËëí.
-p
-java:S1104"SMake visited a static final constant or non-public and provide accessors if needed.(÷ç È8ˆÕ ëí.
+<
+java:S1659"Declare "m" on a separate line.(æÙˆ8ˆÕ ëí.
 F
 java:S1444"*Make this "public static maze" field final(‘½˜)8ˆÕ ëí.
 p
-java:S1104"NMake dx a static final constant or non-public and provide accessors if needed.(˜·ªúÿÿÿÿ8°ı¨ëí.
-<
-java:S23864"Make member "maze" "protected".(ƒ•ÂÆ8·óëí.
-U	java:S106@"9Replace this use of System.out or System.err by a logger.(ÁŠ¶ª8™äôëí.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æöÛı
+java:S1104"SMake visited a static final constant or non-public and provide accessors if needed.(÷ç È8ˆÕ ëí.
+J
+java:S1444"-Make this "public static visited" field final(÷ç È8ˆÕ ëí.
 p
 java:S1104"NMake dy a static final constant or non-public and provide accessors if needed.(½•ËÙıÿÿÿÿ8°ı¨ëí.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æöÛı
+j
+java:S1104"MMake m a static final constant or non-public and provide accessors if needed.(æÙˆ8ˆÕ ëí.
+D
+java:S1444"'Make this "public static n" field final(æÙˆ8ˆÕ ëí.
 D
 java:S1444"'Make this "public static m" field final(æÙˆ8ˆÕ ëí.
 l
 java:S1104"PMake maze a static final constant or non-public and provide accessors if needed.(‘½˜)8ˆÕ ëí.
-U
-java:S1197"8Move the array designator from the variable to the type.(÷ç È8ˆÕ ëí.
 ?
 java:S2386"Make this member "protected".(˜·ªúÿÿÿÿ8°ı¨ëí.
+U
+java:S1197"8Move the array designator from the variable to the type.(÷ç È8ˆÕ ëí.
+J
+java:S1444"(Make this "public static dy" field final(½•ËÙıÿÿÿÿ8°ı¨ëí.
+<
+java:S23864"Make member "maze" "protected".(ƒ•ÂÆ8·óëí.
+j
+java:S1104"MMake n a static final constant or non-public and provide accessors if needed.(æÙˆ8ˆÕ ëí.
+Z
+java:S1197-"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ8ØËëí.
 ?
 java:S2386"Make this member "protected".(½•ËÙıÿÿÿÿ8°ı¨ëí.

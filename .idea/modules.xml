@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/BOJ/BOJ.iml" filepath="$PROJECT_DIR$/BOJ/BOJ.iml" />
       <module fileurl="file://$PROJECT_DIR$/CS/CS.iml" filepath="$PROJECT_DIR$/CS/CS.iml" />
       <module fileurl="file://$PROJECT_DIR$/CS_fastcampus/CS_fastcampus.iml" filepath="$PROJECT_DIR$/CS_fastcampus/CS_fastcampus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmers/Programmers.iml" filepath="$PROJECT_DIR$/Programmers/Programmers.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThisisCodingTest/ThisisCodingTest.iml" filepath="$PROJECT_DIR$/ThisisCodingTest/ThisisCodingTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
     </modules>
