@@ -11,6 +11,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Queue;
 import java.util.StringTokenizer;
 
 //학생 이름, 국, 영, 수 점수

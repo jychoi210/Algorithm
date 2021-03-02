@@ -1,10 +1,10 @@
 
-U	java:S106""9Replace this use of System.out or System.err by a logger.(àåúï8úşŠí.
 X	java:S125"<This block of commented-out lines of code should be removed.(ş¬ûç8›Ì²Ší.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(àåúï8úşŠí.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úü’
 t
 java:S3776
 "RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ùï¾ÿÿÿÿÿ8–²Ší.
 Z
 java:S1197
 "8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ8ÂŒü‰í.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úü’

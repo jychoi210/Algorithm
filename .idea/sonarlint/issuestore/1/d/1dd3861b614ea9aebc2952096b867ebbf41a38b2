@@ -1,0 +1,39 @@
+
+j
+java:S1104"MMake e a static final constant or non-public and provide accessors if needed.(ÉšØÍ8Âêøßï.
+?
+java:S2386"Make this member "protected".(øèê¨ùÿÿÿÿ8Âêøßï.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï’Ëêúÿÿÿÿ8—‡àï.
+D
+java:S1444"'Make this "public static v" field final(ÉšØÍ8Âêøßï.
+M
+java:S1444"+Make this "public static graph" field final(ï’Ëêúÿÿÿÿ8—‡àï.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹÷øÛúÿÿÿÿ
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Ù©È±8ÄØ¦àï.
+’
+java:S1319"pThe type of the "graph" object should be an interface such as "List" rather than the implementation "ArrayList".(ï’Ëêúÿÿÿÿ8—‡àï.
+s
+java:S1104"QMake graph a static final constant or non-public and provide accessors if needed.(ï’Ëêúÿÿÿÿ8—‡àï.
+j
+java:S1104"MMake v a static final constant or non-public and provide accessors if needed.(ÉšØÍ8Âêøßï.
+K
+java:S1444".Make this "public static indegree" field final(Ü¡‹á8Âêøßï.
+q
+java:S1104"TMake indegree a static final constant or non-public and provide accessors if needed.(Ü¡‹á8Âêøßï.
+t
+java:S1104"RMake result a static final constant or non-public and provide accessors if needed.(øèê¨ùÿÿÿÿ8Âêøßï.
+:
+java:S2386"Make this member "protected".(Ü¡‹á8Âêøßï.
+“
+java:S1319"qThe type of the "result" object should be an interface such as "List" rather than the implementation "ArrayList".(øèê¨ùÿÿÿÿ8«í€àï.
+D
+java:S1444"'Make this "public static e" field final(ÉšØÍ8Âêøßï.
+Z
+java:S1197:"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÄØ¦àï.
+N
+java:S1444",Make this "public static result" field final(øèê¨ùÿÿÿÿ8Âêøßï.
+<
+java:S1659"Declare "e" on a separate line.(ÉšØÍ8Âêøßï.
+?
+java:S2386"Make this member "protected".(ï’Ëêúÿÿÿÿ8—‡àï.

@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6cc8b48d-3575-410d-9a30-cf6af762b6d1" name="Default Changelist" comment="Update">
+      <change afterPath="$PROJECT_DIR$/BOJ/src/BFS/Q7576.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThisisCodingTest/src/DFS/BFS/AvoidingSurveillance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThisisCodingTest/src/DFS/BFS/Laboratory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThisisCodingTest/src/DFS/BFS/MovingBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThisisCodingTest/src/DynamicProgramming/DeployingSoldiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThisisCodingTest/src/Implementation/ChickenDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThisisCodingTest/src/Implementation/ExteriorWallInspection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThisisCodingTest/src/ShortestPath/MarsExploration.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1egDoiQ0aH3UBqyMU3U3XWuiGOy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ThisisCodingTest/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/ThisisCodingTest/src/Implementation/Snake.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ThisisCodingTest/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CS/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MarsExploration">
+    <configuration name="AccurateRanking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShortestPath.AccurateRanking" />
+      <module name="ThisisCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ShortestPath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EditDistance_sol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.EditDistance_sol" />
+      <module name="ThisisCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Floyd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShortestPath.Floyd" />
+      <module name="ThisisCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ShortestPath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarsExploration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShortestPath.MarsExploration" />
+      <module name="ThisisCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ShortestPath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UglyNumber_sol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.UglyNumber_sol" />
+      <module name="ThisisCodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MarsExploration" />
+        <item itemvalue="Application.AccurateRanking" />
+        <item itemvalue="Application.Floyd" />
+        <item itemvalue="Application.EditDistance_sol" />
+        <item itemvalue="Application.UglyNumber_sol" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cc8b48d-3575-410d-9a30-cf6af762b6d1" name="Default Changelist" comment="" />
+      <created>1594734518825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594734518825</updated>
+    </task>
+    <task id="LOCAL-00176" summary="기출 Q1 특정 거리의 도시 찾기 (다익스트라)">
+      <created>1611246608432</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1611246608433</updated>
+    </task>
+    <task id="LOCAL-00177" summary="기출 Q1 특정 거리의 도시 찾기 해답 (BFS)">
+      <created>1611246622025</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1611246622025</updated>
+    </task>
+    <task id="LOCAL-00178" summary="기출 Q2 연구소 해답">
+      <created>1611251492334</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1611251492334</updated>
+    </task>
+    <task id="LOCAL-00179" summary="Update">
+      <created>1611251502435</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1611251502435</updated>
+    </task>
+    <task id="LOCAL-00180" summary="Update">
+      <created>1611284082066</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1611284082066</updated>
+    </task>
+    <task id="LOCAL-00181" summary="기출 Q3 경쟁적 전염">
+      <created>1611291516205</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1611291516205</updated>
+    </task>
+    <task id="LOCAL-00182" summary="기출 Q4 괄호 변환">
+      <created>1611294398664</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1611294398664</updated>
+    </task>
+    <task id="LOCAL-00183" summary="기출 Q4 괄호 변환 (before)">
+      <created>1611294424769</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1611294424770</updated>
+    </task>
+    <task id="LOCAL-00184" summary="기출 Q6 기둥과 보 설치 해답">
+      <created>1611301727730</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1611301727730</updated>
+    </task>
+    <task id="LOCAL-00185" summary="기출 Q5 연산자 끼워 넣기">
+      <created>1611408418431</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1611408418431</updated>
+    </task>
+    <task id="LOCAL-00186" summary="기출 Q5 연산자 끼워 넣기 해답">
+      <created>1611408430255</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1611408430255</updated>
+    </task>
+    <task id="LOCAL-00187" summary="Update">
+      <created>1611423977232</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1611423977232</updated>
+    </task>
+    <task id="LOCAL-00188" summary="기출 Q2 연구소 해답">
+      <created>1611424002264</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1611424002264</updated>
+    </task>
+    <task id="LOCAL-00189" summary="기출 Q6 감시 피하기 해답">
+      <created>1611424016703</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1611424016703</updated>
+    </task>
+    <task id="LOCAL-00190" summary="기출 Q7 인구 이동 해답">
+      <created>1611492835133</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1611492835133</updated>
+    </task>
+    <task id="LOCAL-00191" summary="기출 Q8 블록 이동하기 해답">
+      <created>1611492853964</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1611492853964</updated>
+    </task>
+    <task id="LOCAL-00192" summary="Update">
+      <created>1611492873490</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1611492873490</updated>
+    </task>
+    <task id="LOCAL-00193" summary="기출 Q1 국영수">
+      <created>1611503832025</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1611503832026</updated>
+    </task>
+    <task id="LOCAL-00194" summary="기출 Q2 안테나">
+      <created>1611503850503</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1611503850503</updated>
+    </task>
+    <task id="LOCAL-00195" summary="Update">
+      <created>1611503892614</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1611503892614</updated>
+    </task>
+    <task id="LOCAL-00196" summary="Update">
+      <created>1611641913019</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1611641913019</updated>
+    </task>
+    <task id="LOCAL-00197" summary="기출 Q4 카드 정렬하기">
+      <created>1611641930796</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1611641930796</updated>
+    </task>
+    <task id="LOCAL-00198" summary="기출 Q3 실패율">
+      <created>1611641945588</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1611641945588</updated>
+    </task>
+    <task id="LOCAL-00199" summary="기출 Q3 실패율 (이전에 풀었던 것)">
+      <created>1611641959562</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1611641959563</updated>
+    </task>
+    <task id="LOCAL-00200" summary="Update">
+      <created>1611731117559</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1611731117559</updated>
+    </task>
+    <task id="LOCAL-00201" summary="기출 Q1 정렬된 배열에서 특정 수의 개수 구하기">
+      <created>1611736942850</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1611736942850</updated>
+    </task>
+    <task id="LOCAL-00202" summary="기출 Q1 정렬된 배열에서 특정 수의 개수 구하기 해답">
+      <created>1611736957680</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1611736957680</updated>
+    </task>
+    <task id="LOCAL-00203" summary="기출 Q2 고정점 찾기">
+      <created>1611736971384</created>
+      <option name="number" value="00203" />
+      <option name="presentableId" value="LOCAL-00203" />
+      <option name="project" value="LOCAL" />
+      <updated>1611736971384</updated>
+    </task>
+    <task id="LOCAL-00204" summary="Update">
+      <created>1611842625462</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1611842625462</updated>
+    </task>
+    <task id="LOCAL-00205" summary="기출 Q4 가사 검색 해답">
+      <created>1611843059403</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1611843059403</updated>
+    </task>
+    <task id="LOCAL-00206" summary="기출 Q4 가사 검색 해답">
+      <created>1611851483703</created>
+      <option name="number" value="00206" />
+      <option name="presentableId" value="LOCAL-00206" />
+      <option name="project" value="LOCAL" />
+      <updated>1611851483703</updated>
+    </task>
+    <task id="LOCAL-00207" summary="기출 Q3 공유기 설치 해답">
+      <created>1611851517509</created>
+      <option name="number" value="00207" />
+      <option name="presentableId" value="LOCAL-00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1611851517509</updated>
+    </task>
+    <task id="LOCAL-00208" summary="Update">
+      <created>1611920847655</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1611920847656</updated>
+    </task>
+    <task id="LOCAL-00209" summary="기출 Q1 금광">
+      <created>1611920864969</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1611920864969</updated>
+    </task>
+    <task id="LOCAL-00210" summary="기출 Q1 금광 해답">
+      <created>1611920887233</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1611920887233</updated>
+    </task>
+    <task id="LOCAL-00211" summary="기출 Q2 정수 삼각형">
+      <created>1611941055031</created>
+      <option name="number" value="00211" />
+      <option name="presentableId" value="LOCAL-00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1611941055031</updated>
+    </task>
+    <task id="LOCAL-00212" summary="Update">
+      <created>1612014685235</created>
+      <option name="number" value="00212" />
+      <option name="presentableId" value="LOCAL-00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1612014685235</updated>
+    </task>
+    <task id="LOCAL-00213" summary="기출 Q2 정수 삼각형">
+      <created>1612018144184</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1612018144184</updated>
+    </task>
+    <task id="LOCAL-00214" summary="기출 Q4 병사 배치하기 해답">
+      <created>1612029161416</created>
+      <option name="number" value="00214" />
+      <option name="presentableId" value="LOCAL-00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1612029161416</updated>
+    </task>
+    <task id="LOCAL-00215" summary="기출 Q3 퇴사">
+      <created>1612029181495</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1612029181495</updated>
+    </task>
+    <task id="LOCAL-00216" summary="Update">
+      <created>1612111035917</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1612111035917</updated>
+    </task>
+    <task id="LOCAL-00217" summary="Update">
+      <created>1612111041036</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1612111041036</updated>
+    </task>
+    <task id="LOCAL-00218" summary="기출 Q6 편집 거리 해답">
+      <created>1612170597792</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1612170597792</updated>
+    </task>
+    <task id="LOCAL-00219" summary="기출 Q5 못생긴 수">
+      <created>1612170614603</created>
+      <option name="number" value="00219" />
+      <option name="presentableId" value="LOCAL-00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1612170614603</updated>
+    </task>
+    <task id="LOCAL-00220" summary="기출 Q5 못생긴 수 해답">
+      <created>1612170623436</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1612170623436</updated>
+    </task>
+    <task id="LOCAL-00221" summary="Update">
+      <created>1612170635746</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1612170635746</updated>
+    </task>
+    <task id="LOCAL-00222" summary="Update">
+      <created>1612241571416</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1612241571417</updated>
+    </task>
+    <task id="LOCAL-00223" summary="기출 Q2 정확한 순위 해답">
+      <created>1612251234314</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1612251234314</updated>
+    </task>
+    <task id="LOCAL-00224" summary="기출 Q1 플로이드">
+      <created>1612251257576</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1612251257576</updated>
+    </task>
+    <option name="localTasksCounter" value="225" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="기출 Q2 연구소 해답" />
+    <MESSAGE value="기출 Q6 감시 피하기 해답" />
+    <MESSAGE value="기출 Q7 인구 이동 해답" />
+    <MESSAGE value="기출 Q8 블록 이동하기 해답" />
+    <MESSAGE value="기출 Q1 국영수" />
+    <MESSAGE value="기출 Q2 안테나" />
+    <MESSAGE value="기출 Q4 카드 정렬하기" />
+    <MESSAGE value="기출 Q3 실패율" />
+    <MESSAGE value="기출 Q3 실패율 (이전에 풀었던 것)" />
+    <MESSAGE value="기출 Q1 정렬된 배열에서 특정 수의 개수 구하기" />
+    <MESSAGE value="기출 Q1 정렬된 배열에서 특정 수의 개수 구하기 해답" />
+    <MESSAGE value="기출 Q2 고정점 찾기" />
+    <MESSAGE value="기출 Q4 가사 검색 해답" />
+    <MESSAGE value="기출 Q3 공유기 설치 해답" />
+    <MESSAGE value="기출 Q1 금광" />
+    <MESSAGE value="기출 Q1 금광 해답" />
+    <MESSAGE value="기출 Q2 정수 삼각형" />
+    <MESSAGE value="기출 Q4 병사 배치하기 해답" />
+    <MESSAGE value="기출 Q3 퇴사" />
+    <MESSAGE value="기출 Q6 편집 거리 해답" />
+    <MESSAGE value="기출 Q5 못생긴 수" />
+    <MESSAGE value="기출 Q5 못생긴 수 해답" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="기출 Q2 정확한 순위 해답" />
+    <MESSAGE value="기출 Q1 플로이드" />
+    <option name="LAST_COMMIT_MESSAGE" value="기출 Q1 플로이드" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="304" key="#Console" timestamp="1610865253364">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="553" y="304" key="#Console/0.0.1792.1120@0.0.1792.1120" timestamp="1610865253364" />
+    <state x="418" y="117" key="#Project_Structure" timestamp="1609784361817">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="418" y="117" key="#Project_Structure/1792.87.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1609784361817" />
+    <state x="-1147" y="-76" key="#com.intellij.ide.util.MemberChooser" timestamp="1610528885645">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state x="-1147" y="-76" key="#com.intellij.ide.util.MemberChooser/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1610528885645" />
+    <state x="2565" y="337" key="#com.intellij.ide.util.MemberChooser/1792.87.1920.1080/0.0.1792.1120@1792.87.1920.1080" timestamp="1610104381387" />
+    <state x="498" y="481" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1611732122716">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="498" y="481" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1611732122716" />
+    <state x="-1222" y="-32" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1611241358350">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state x="-1222" y="-32" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1611241358350" />
+    <state x="-1676" y="-251" width="1433" height="896" key="DiffContextDialog" timestamp="1611044556086">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state x="-1676" y="-251" width="1433" height="896" key="DiffContextDialog/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1611044556086" />
+    <state x="2036" y="162" key="DiffContextDialog/1792.87.1920.1080/0.0.1792.1120@1792.87.1920.1080" timestamp="1609859754803" />
+    <state width="1876" height="182" key="GridCell.Tab.0.bottom" timestamp="1612283105785">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state width="1748" height="365" key="GridCell.Tab.0.bottom/-1920.-303.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1611077371972" />
+    <state width="1876" height="245" key="GridCell.Tab.0.bottom/-1920.-303.1920.1057/0.23.1792.1016@-1920.-303.1920.1057" timestamp="1612197301581" />
+    <state width="1876" height="343" key="GridCell.Tab.0.bottom/-1920.-303.1920.976/0.23.1792.1097@-1920.-303.1920.976" timestamp="1611662354666" />
+    <state width="1748" height="357" key="GridCell.Tab.0.bottom/-1920.-303.1920.976/0.23.1792.1097@0.23.1792.1097" timestamp="1611854031863" />
+    <state width="1876" height="182" key="GridCell.Tab.0.bottom/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1612283105785" />
+    <state width="1748" height="357" key="GridCell.Tab.0.bottom/-1920.-326.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1611851443493" />
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom/-1920.-326.1920.1080/0.23.1792.1016@-1920.-326.1920.1080" timestamp="1612029514371" />
+    <state width="1876" height="386" key="GridCell.Tab.0.bottom/-1920.-326.1920.1080/0.23.1792.1097@-1920.-326.1920.1080" timestamp="1612243928142" />
+    <state width="1748" height="357" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1611737033677" />
+    <state width="1748" height="428" key="GridCell.Tab.0.bottom/0.23.1792.1016@0.23.1792.1016" timestamp="1611037031620" />
+    <state width="1748" height="455" key="GridCell.Tab.0.bottom/1792.110.1920.1057/0.23.1792.1016@0.23.1792.1016" timestamp="1609785108283" />
+    <state width="1876" height="317" key="GridCell.Tab.0.bottom/1792.110.1920.1057/0.23.1792.1097@1792.110.1920.1057" timestamp="1609873430569" />
+    <state width="1748" height="205" key="GridCell.Tab.0.bottom/1792.87.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1609833550168" />
+    <state width="1876" height="228" key="GridCell.Tab.0.bottom/1792.87.1920.1080/0.0.1792.1120@1792.87.1920.1080" timestamp="1610187160617" />
+    <state width="1876" height="228" key="GridCell.Tab.0.bottom/1792.87.1920.1080/0.23.1792.1097@1792.87.1920.1080" timestamp="1610034235236" />
+    <state width="1876" height="182" key="GridCell.Tab.0.center" timestamp="1612283105784">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state width="1748" height="365" key="GridCell.Tab.0.center/-1920.-303.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1611077371970" />
+    <state width="1876" height="245" key="GridCell.Tab.0.center/-1920.-303.1920.1057/0.23.1792.1016@-1920.-303.1920.1057" timestamp="1612197301580" />
+    <state width="1876" height="343" key="GridCell.Tab.0.center/-1920.-303.1920.976/0.23.1792.1097@-1920.-303.1920.976" timestamp="1611662354665" />
+    <state width="1748" height="357" key="GridCell.Tab.0.center/-1920.-303.1920.976/0.23.1792.1097@0.23.1792.1097" timestamp="1611854031862" />
+    <state width="1876" height="182" key="GridCell.Tab.0.center/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1612283105784" />
+    <state width="1748" height="357" key="GridCell.Tab.0.center/-1920.-326.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1611851443491" />
+    <state width="1876" height="342" key="GridCell.Tab.0.center/-1920.-326.1920.1080/0.23.1792.1016@-1920.-326.1920.1080" timestamp="1612029514370" />
+    <state width="1876" height="386" key="GridCell.Tab.0.center/-1920.-326.1920.1080/0.23.1792.1097@-1920.-326.1920.1080" timestamp="1612243928140" />
+    <state width="1748" height="357" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1611737033676" />
+    <state width="1748" height="428" key="GridCell.Tab.0.center/0.23.1792.1016@0.23.1792.1016" timestamp="1611037031619" />
+    <state width="1748" height="455" key="GridCell.Tab.0.center/1792.110.1920.1057/0.23.1792.1016@0.23.1792.1016" timestamp="1609785108282" />
+    <state width="1876" height="317" key="GridCell.Tab.0.center/1792.110.1920.1057/0.23.1792.1097@1792.110.1920.1057" timestamp="1609873430567" />
+    <state width="1748" height="205" key="GridCell.Tab.0.center/1792.87.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1609833550166" />
+    <state width="1876" height="228" key="GridCell.Tab.0.center/1792.87.1920.1080/0.0.1792.1120@1792.87.1920.1080" timestamp="1610187160615" />
+    <state width="1876" height="228" key="GridCell.Tab.0.center/1792.87.1920.1080/0.23.1792.1097@1792.87.1920.1080" timestamp="1610034235234" />
+    <state width="1876" height="182" key="GridCell.Tab.0.left" timestamp="1612283105783">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state width="1748" height="365" key="GridCell.Tab.0.left/-1920.-303.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1611077371968" />
+    <state width="1876" height="245" key="GridCell.Tab.0.left/-1920.-303.1920.1057/0.23.1792.1016@-1920.-303.1920.1057" timestamp="1612197301580" />
+    <state width="1876" height="343" key="GridCell.Tab.0.left/-1920.-303.1920.976/0.23.1792.1097@-1920.-303.1920.976" timestamp="1611662354665" />
+    <state width="1748" height="357" key="GridCell.Tab.0.left/-1920.-303.1920.976/0.23.1792.1097@0.23.1792.1097" timestamp="1611854031862" />
+    <state width="1876" height="182" key="GridCell.Tab.0.left/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1612283105783" />
+    <state width="1748" height="357" key="GridCell.Tab.0.left/-1920.-326.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1611851443490" />
+    <state width="1876" height="342" key="GridCell.Tab.0.left/-1920.-326.1920.1080/0.23.1792.1016@-1920.-326.1920.1080" timestamp="1612029514369" />
+    <state width="1876" height="386" key="GridCell.Tab.0.left/-1920.-326.1920.1080/0.23.1792.1097@-1920.-326.1920.1080" timestamp="1612243928139" />
+    <state width="1748" height="357" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1611737033676" />
+    <state width="1748" height="428" key="GridCell.Tab.0.left/0.23.1792.1016@0.23.1792.1016" timestamp="1611037031618" />
+    <state width="1748" height="455" key="GridCell.Tab.0.left/1792.110.1920.1057/0.23.1792.1016@0.23.1792.1016" timestamp="1609785108281" />
+    <state width="1876" height="317" key="GridCell.Tab.0.left/1792.110.1920.1057/0.23.1792.1097@1792.110.1920.1057" timestamp="1609873430567" />
+    <state width="1748" height="205" key="GridCell.Tab.0.left/1792.87.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1609833550166" />
+    <state width="1876" height="228" key="GridCell.Tab.0.left/1792.87.1920.1080/0.0.1792.1120@1792.87.1920.1080" timestamp="1610187160615" />
+    <state width="1876" height="228" key="GridCell.Tab.0.left/1792.87.1920.1080/0.23.1792.1097@1792.87.1920.1080" timestamp="1610034235234" />
+    <state width="1876" height="182" key="GridCell.Tab.0.right" timestamp="1612283105784">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state width="1748" height="365" key="GridCell.Tab.0.right/-1920.-303.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1611077371971" />
+    <state width="1876" height="245" key="GridCell.Tab.0.right/-1920.-303.1920.1057/0.23.1792.1016@-1920.-303.1920.1057" timestamp="1612197301581" />
+    <state width="1876" height="343" key="GridCell.Tab.0.right/-1920.-303.1920.976/0.23.1792.1097@-1920.-303.1920.976" timestamp="1611662354666" />
+    <state width="1748" height="357" key="GridCell.Tab.0.right/-1920.-303.1920.976/0.23.1792.1097@0.23.1792.1097" timestamp="1611854031863" />
+    <state width="1876" height="182" key="GridCell.Tab.0.right/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1612283105784" />
+    <state width="1748" height="357" key="GridCell.Tab.0.right/-1920.-326.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1611851443492" />
+    <state width="1876" height="342" key="GridCell.Tab.0.right/-1920.-326.1920.1080/0.23.1792.1016@-1920.-326.1920.1080" timestamp="1612029514371" />
+    <state width="1876" height="386" key="GridCell.Tab.0.right/-1920.-326.1920.1080/0.23.1792.1097@-1920.-326.1920.1080" timestamp="1612243928141" />
+    <state width="1748" height="357" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1611737033676" />
+    <state width="1748" height="428" key="GridCell.Tab.0.right/0.23.1792.1016@0.23.1792.1016" timestamp="1611037031620" />
+    <state width="1748" height="455" key="GridCell.Tab.0.right/1792.110.1920.1057/0.23.1792.1016@0.23.1792.1016" timestamp="1609785108282" />
+    <state width="1876" height="317" key="GridCell.Tab.0.right/1792.110.1920.1057/0.23.1792.1097@1792.110.1920.1057" timestamp="1609873430567" />
+    <state width="1748" height="205" key="GridCell.Tab.0.right/1792.87.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1609833550167" />
+    <state width="1876" height="228" key="GridCell.Tab.0.right/1792.87.1920.1080/0.0.1792.1120@1792.87.1920.1080" timestamp="1610187160616" />
+    <state width="1876" height="228" key="GridCell.Tab.0.right/1792.87.1920.1080/0.23.1792.1097@1792.87.1920.1080" timestamp="1610034235235" />
+    <state width="1876" height="370" key="GridCell.Tab.1.bottom" timestamp="1611052495640">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="370" key="GridCell.Tab.1.bottom/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1611052495640" />
+    <state width="1876" height="370" key="GridCell.Tab.1.bottom/1792.87.1920.1080/0.0.1792.1120@1792.87.1920.1080" timestamp="1610112910943" />
+    <state width="1876" height="370" key="GridCell.Tab.1.center" timestamp="1611052495639">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="370" key="GridCell.Tab.1.center/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1611052495639" />
+    <state width="1876" height="370" key="GridCell.Tab.1.center/1792.87.1920.1080/0.0.1792.1120@1792.87.1920.1080" timestamp="1610112910942" />
+    <state width="1876" height="370" key="GridCell.Tab.1.left" timestamp="1611052495639">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="370" key="GridCell.Tab.1.left/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1611052495639" />
+    <state width="1876" height="370" key="GridCell.Tab.1.left/1792.87.1920.1080/0.0.1792.1120@1792.87.1920.1080" timestamp="1610112910942" />
+    <state width="1876" height="370" key="GridCell.Tab.1.right" timestamp="1611052495640">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="370" key="GridCell.Tab.1.right/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1611052495640" />
+    <state width="1876" height="370" key="GridCell.Tab.1.right/1792.87.1920.1080/0.0.1792.1120@1792.87.1920.1080" timestamp="1610112910943" />
+    <state x="-1231" y="-160" key="RollbackChangesDialog" timestamp="1611455430542">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state x="-1231" y="-160" key="RollbackChangesDialog/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1611455430542" />
+    <state x="-1451" y="-147" key="SettingsEditor" timestamp="1611420371123">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state x="-1451" y="-147" key="SettingsEditor/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1611420074495" />
+    <state x="-1451" y="-147" key="SettingsEditor/-1920.-326.1920.1080/0.23.1792.1097@-1920.-326.1920.1080" timestamp="1611420371123" />
+    <state x="-1360" y="-56" key="Vcs.Push.Dialog.v2" timestamp="1612251272421">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state x="-1360" y="-56" key="Vcs.Push.Dialog.v2/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1612251272421" />
+    <state x="523" y="280" key="Vcs.Push.Dialog.v2/-1920.-326.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1611851523673" />
+    <state x="-1360" y="-56" key="Vcs.Push.Dialog.v2/-1920.-326.1920.1080/0.23.1792.1097@-1920.-326.1920.1080" timestamp="1610281698818" />
+    <state x="523" y="280" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1611736995713" />
+    <state x="523" y="280" key="Vcs.Push.Dialog.v2/1792.110.1920.1057/0.0.1792.1120@0.0.1792.1120" timestamp="1609784762768" />
+    <state x="2352" y="357" key="Vcs.Push.Dialog.v2/1792.87.1920.1080/0.0.1792.1120@1792.87.1920.1080" timestamp="1610187968401" />
+    <state x="682" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610852176142">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="682" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1610852176142" />
+    <state x="675" y="358" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1609752956964">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="675" y="358" key="com.intellij.testIntegration.createTest.CreateTestDialog/1792.87.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1609752956964" />
+    <state x="-1637" y="-234" key="new project wizard" timestamp="1610281890038">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state x="-1637" y="-234" key="new project wizard/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1610281890038" />
+    <state x="264" y="95" key="new project wizard/1792.87.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1609783162988" />
+    <state x="2075" y="179" key="new project wizard/1792.87.1920.1080/0.0.1792.1120@1792.87.1920.1080" timestamp="1610024962153" />
+    <state x="-1295" y="-86" width="718" height="692" key="search.everywhere.popup" timestamp="1612160518367">
+      <screen x="-1920" y="-326" width="1920" height="1080" />
+    </state>
+    <state x="-1295" y="-86" width="718" height="692" key="search.everywhere.popup/-1920.-326.1920.1080/0.0.1792.1120@-1920.-326.1920.1080" timestamp="1612160518367" />
+    <state x="583" y="249" width="671" height="718" key="search.everywhere.popup/-1920.-326.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1611851089314" />
+    <state x="583" y="249" width="671" height="718" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1611037371059" />
+    <state x="583" y="249" width="670" height="717" key="search.everywhere.popup/1792.87.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1609763473020" />
+    <state x="2417" y="327" width="718" height="692" key="search.everywhere.popup/1792.87.1920.1080/0.0.1792.1120@1792.87.1920.1080" timestamp="1610109620270" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊüÉœ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üˆõÏ
+o	java:S116"URename this field "stack_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú ãûÿÿÿÿ
+6
+java:S2326" Object is not used in the class.(®éÿ«
+^	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(®éÿ«
+;
+java:S2326" Object is not used in the class.(¾»äÏüÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¾»äÏüÿÿÿÿ
+S
+java:S1197-"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.(˜ïˆÿÿÿÿÿ

@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º®–
+Z
+java:S1197"8Move the array designator from the variable to the type.(ŒË‰üÿÿÿÿ8…Â¾¢õ.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Ù©È±8«Ë£õ.
+D
+java:S1444"'Make this "public static n" field final(ÓœşÚ8…Â¾¢õ.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(¶ìÌ­8ìÉ£õ.
+j
+java:S1104"MMake n a static final constant or non-public and provide accessors if needed.(ÓœşÚ8…Â¾¢õ.

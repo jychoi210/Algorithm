@@ -1,0 +1,17 @@
+
+E
+java:S1172&"(Remove this unused method parameter "n".(¿´ŠÅ8Õ£·¦ğ.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ä°ØÀ8ªè•§ğ.
+r
+java:S1104"UMake available a static final constant or non-public and provide accessors if needed.(‰¾¸±8¿Ãã¤ğ.
+Z
+java:S11971"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8í¹å¤ğ.
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(êµÛ¡8¦¥Ñ¦ğ.
+L
+java:S1444"/Make this "public static available" field final(‰¾¸±8¿Ãã¤ğ.
+E
+java:S1125)"(Remove the literal "true" boolean value.(îğûŸ8¨Ÿ›¦ğ.
+:
+java:S2386"Make this member "protected".(‰¾¸±8¿Ãã¤ğ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¦ÀÀøÿÿÿÿ

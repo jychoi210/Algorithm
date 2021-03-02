@@ -1,0 +1,57 @@
+
+`
+java:S2259T"CA "NullPointerException" could be thrown; "shark" is nullable here.(í‰Œ8şë²Îú.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚…©ˆıÿÿÿÿ
+?
+java:S2386"Make this member "protected".(©Ãòçÿÿÿÿÿ8÷‰·÷.
+J
+java:S1444""(Make this "public static dx" field final(˜·ªúÿÿÿÿ8Ÿ×¨·÷.
+U
+java:S1197!"8Move the array designator from the variable to the type.(÷ç È8Ÿ×¨·÷.
+J
+java:S1444!"-Make this "public static visited" field final(÷ç È8Ÿ×¨·÷.
+s
+java:S1104"QMake space a static final constant or non-public and provide accessors if needed.(©Ãòçÿÿÿÿÿ8÷‰·÷.
+p
+java:S1104""NMake dx a static final constant or non-public and provide accessors if needed.(˜·ªúÿÿÿÿ8Ÿ×¨·÷.
+p
+java:S1104#"NMake dy a static final constant or non-public and provide accessors if needed.(½•ËÙıÿÿÿÿ8Ÿ×¨·÷.
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8´ÀµÎú.
+?
+java:S2386""Make this member "protected".(˜·ªúÿÿÿÿ8Ÿ×¨·÷.
+?
+java:S2386#"Make this member "protected".(½•ËÙıÿÿÿÿ8Ÿ×¨·÷.
+N
+java:S1444 ",Make this "public static fishes" field final(üŠÕªüÿÿÿÿ8¶Õƒ·÷.
+p
+java:S1104!"SMake visited a static final constant or non-public and provide accessors if needed.(÷ç È8Ÿ×¨·÷.
+“
+java:S1319 "qThe type of the "fishes" object should be an interface such as "List" rather than the implementation "ArrayList".(üŠÕªüÿÿÿÿ8¶Õƒ·÷.
+L
+java:S10665"/Merge this if statement with the enclosing one.(èÚö”8Òá©·÷.
+M
+java:S1444"+Make this "public static space" field final(©Ãòçÿÿÿÿÿ8÷‰·÷.
+Z
+java:S1197#"8Move the array designator from the variable to the type.(½•ËÙıÿÿÿÿ8Ÿ×¨·÷.
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(ìŸ¹ôøÿÿÿÿ8´ÀµÎú.
+/
+java:S1700"Rename field "fish"(ë¬¾,8ÎÀèÎú.
+]	java:S125O"<This block of commented-out lines of code should be removed.(àíĞÎùÿÿÿÿ8‚µÊÏú.
+?
+java:S2386 "Make this member "protected".(üŠÕªüÿÿÿÿ8¶Õƒ·÷.
+j
+java:S1104"MMake n a static final constant or non-public and provide accessors if needed.(ÓœşÚ8¶Õƒ·÷.
+Z
+java:S1197@"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8¨ë…·÷.
+J
+java:S1444#"(Make this "public static dy" field final(½•ËÙıÿÿÿÿ8Ÿ×¨·÷.
+t
+java:S1104 "RMake fishes a static final constant or non-public and provide accessors if needed.(üŠÕªüÿÿÿÿ8¶Õƒ·÷.
+{
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(üŠÕªüÿÿÿÿ8¶Õƒ·÷.
+Z
+java:S1197""8Move the array designator from the variable to the type.(˜·ªúÿÿÿÿ8Ÿ×¨·÷.
+D
+java:S1444"'Make this "public static n" field final(ÓœşÚ8¶Õƒ·÷.
+:
+java:S2386!"Make this member "protected".(÷ç È8Ÿ×¨·÷.

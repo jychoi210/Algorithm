@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°Ô„Ëûÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Íäçàûÿÿÿÿ
+J
+java:S2201"/The return value of "toCharArray" must be used.(ş½ù‰ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+;
+java:S1659"%Declare "result2" on a separate line.(Î’¨Û
+N	java:S106"9Replace this use of System.out or System.err by a logger.(àÓ¨¨
+:
+java:S1659"$Declare "result" on a separate line.(Î’¨Û

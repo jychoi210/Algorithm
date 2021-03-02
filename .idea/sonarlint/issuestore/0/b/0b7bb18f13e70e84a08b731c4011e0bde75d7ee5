@@ -1,0 +1,24 @@
+
+[	java:S106"9Replace this use of System.out or System.err by a logger.(µŸŞ…şÿÿÿÿ8ğçÂÈò.
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(÷î‡±øÿÿÿÿ8ğçÂÈò.
+^	java:S125Œ"<This block of commented-out lines of code should be removed.(µªıñúÿÿÿÿ8ğçÂÈò.
+{
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(áÂ¦ÿÿÿÿÿ8ğçÂÈò.
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(ËÜŞøÿÿÿÿ8ğçÂÈò.
+[	java:S106–"9Replace this use of System.out or System.err by a logger.(÷î‡±øÿÿÿÿ8ğçÂÈò.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(µŸŞ…şÿÿÿÿ8ğçÂÈò.
+
+java:S1319#"qThe type of the "answer" object should be an interface such as "List" rather than the implementation "ArrayList".(‰ºñ8ğçÂÈò.
+r	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÊíıÿÿÿÿÿ8ğçÂÈò.
+n	java:S101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñºÙ°øÿÿÿÿ8ğçÂÈò.
+t
+java:S3776N"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÏÊíıÿÿÿÿÿ8ğçÂÈò.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úü’
+J
+java:S1172N"(Remove this unused method parameter "n".(ÏÊíıÿÿÿÿÿ8ğçÂÈò.
+{
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(©„Ùüşÿÿÿÿ8ğçÂÈò.
+o
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(‰ºñ8ğçÂÈò.
+[
+java:S1197‹"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ğçÂÈò.

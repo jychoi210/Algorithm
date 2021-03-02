@@ -1,0 +1,22 @@
+
+‡
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(×şÀ
+Œ
+java:S1319."qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(„àñüÿÿÿÿ
+
+java:S1319."rThe type of the "result" object should be an interface such as "List" rather than the implementation "LinkedList".(„àñüÿÿÿÿ
+
+java:S4165$"dRemove this useless assignment; "result" already holds the assigned value along all execution paths.(»‚šØüÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯‡ÒÜûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äã¡²
+b
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(×şÀ
+Z
+java:S2583!"DChange this condition so that it does not always evaluate to "false"(‡á³
+L
+java:S2589"7Remove this expression which always evaluates to "true"(Àî!
+L
+java:S2589"7Remove this expression which always evaluates to "true"(Àî!
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×şÀ

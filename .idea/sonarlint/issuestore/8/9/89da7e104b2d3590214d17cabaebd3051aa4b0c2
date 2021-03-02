@@ -1,0 +1,14 @@
+
+
+java:S13193"nThe type of the "arr" object should be an interface such as "List" rather than the implementation "ArrayList".(ÙœÁÊûÿÿÿÿ8ŞÃš¯ò.
+V
+java:S3400T"9Remove this method and declare a constant for this value.(”·³›8Çå°ò.
+Z
+java:S1197V"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8¨®‚°ò.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æöÛı
+{
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛÂ³òıÿÿÿÿ8ŞÃš¯ò.
+’
+java:S1319("pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(œ¥‰úÿÿÿÿ8ŞÃš¯ò.
+L
+java:S1172S"*Remove this unused method parameter "lab".(ºïê ıÿÿÿÿ8Çå°ò.

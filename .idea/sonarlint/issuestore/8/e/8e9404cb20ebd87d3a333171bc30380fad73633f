@@ -1,0 +1,41 @@
+
+t
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(˜ÆÇ•şÿÿÿÿ8ò´Ù‚ó.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çğ®ÿÿÿÿÿ8§ÜÕ‚ó.
+t
+java:S1104@"RMake spaces a static final constant or non-public and provide accessors if needed.(²Òñ«øÿÿÿÿ8òÒÙ‚ó.
+P
+java:S1444?".Make this "public static teachers" field final(´²Û½ÿÿÿÿÿ8âƒß‚ó.
+o
+java:S3776n"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8—üÜ‚ó.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æöÛı
+:
+java:S2386A"Make this member "protected".(ƒÁ®¡8áµÓ‚ó.
+J
+java:S1444A"-Make this "public static hallway" field final(ƒÁ®¡8áµÓ‚ó.
+v
+java:S1104?"TMake teachers a static final constant or non-public and provide accessors if needed.(´²Û½ÿÿÿÿÿ8âƒß‚ó.
+j
+java:S1104>"MMake n a static final constant or non-public and provide accessors if needed.(ÓœşÚ8áµÓ‚ó.
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¸šÖ8§ÜÕ‚ó.
+N
+java:S1444@",Make this "public static spaces" field final(²Òñ«øÿÿÿÿ8òÒÙ‚ó.
+D
+java:S1444>"'Make this "public static n" field final(ÓœşÚ8áµÓ‚ó.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ú¨±™8—üÜ‚ó.
+p
+java:S1104A"SMake hallway a static final constant or non-public and provide accessors if needed.(ƒÁ®¡8áµÓ‚ó.
+?
+java:S2386@"Make this member "protected".(²Òñ«øÿÿÿÿ8ò´Ù‚ó.
+?
+java:S2386?"Make this member "protected".(´²Û½ÿÿÿÿÿ8£÷Ø‚ó.
+•
+java:S1319?"sThe type of the "teachers" object should be an interface such as "List" rather than the implementation "ArrayList".(´²Û½ÿÿÿÿÿ8£÷Ø‚ó.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(îÛãèøÿÿÿÿ8—üÜ‚ó.
+b	java:S101="MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œ‹ı·
+“
+java:S1319@"qThe type of the "spaces" object should be an interface such as "List" rather than the implementation "ArrayList".(²Òñ«øÿÿÿÿ8£÷Ø‚ó.
+‹
+java:S1319"nThe type of the "arr" object should be an interface such as "List" rather than the implementation "ArrayList".(ÚØü«8§ÜÕ‚ó.

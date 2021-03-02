@@ -415,3 +415,11 @@ J
 BOJ/src/BFS/DFS/Q2667.java,d/2/d251a2acc59cd00ab274fb2bc87258914277a2c1
 J
 BOJ/src/BFS/DFS/Q2606.java,e/5/e512c59a36ffe50d7e3f5600ce9925d6485057f1
+F
+test/src/hdite/Q1.java,1/1/11d577eb7d4d5e34cd3778e23bc3a2a128b9ef89
+Q
+!BOJ/src/Implementation/Q2615.java,2/2/22874c402005f646852567c95f71cf653a25b5ca
+U
+%BOJ/src/DynamicProgramming/Q1699.java,4/9/490f89427fed9350b68365006a261f20bd814ecf
+Q
+!BOJ/src/Implementation/Q1316.java,1/5/15b440cb85dcaaad6f4418b7636ce827b89b6f9d

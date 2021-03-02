@@ -1,0 +1,18 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ú¥œò
+L
+java:S1444"/Make this "public static arrayList" field final(¿äúØ8Ò’¼§ğ.
+r
+java:S1104"UMake arrayList a static final constant or non-public and provide accessors if needed.(¿äúØ8Ò’¼§ğ.
+D
+java:S1444"'Make this "public static n" field final(ÓœşÚ8Ò’¼§ğ.
+‘
+java:S1319"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(¿äúØ8Ò’¼§ğ.
+X	java:S125!"<This block of commented-out lines of code should be removed.(ÖÉ¨­8‹ÿÀ°ğ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Ò’¼§ğ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¦ÀÀøÿÿÿÿ
+j
+java:S1104"MMake n a static final constant or non-public and provide accessors if needed.(ÓœşÚ8Ò’¼§ğ.
+:
+java:S2386"Make this member "protected".(¿äúØ8Ò’¼§ğ.

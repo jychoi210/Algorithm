@@ -1,0 +1,33 @@
+
+P
+java:S1121=".Extract the assignment out of this expression.(΄Έ„¬ϋÿÿÿÿ8υΖ“ίο.
+{
+java:S1210*"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Θ¶­όÿÿÿÿ8ή‰ίο.
+j
+java:S11043"MMake e a static final constant or non-public and provide accessors if needed.(ΙΨΝ8Η‹ίο.
+D
+java:S14443"'Make this "public static v" field final(ΙΨΝ8Η‹ίο.
+?
+java:S23867"Make this member "protected".(–Πÿÿÿÿÿ8ª”Ήίο.
+s
+java:S11047"QMake edges a static final constant or non-public and provide accessors if needed.(–Πÿÿÿÿÿ8ª”Ήίο.
+:
+java:S23865"Make this member "protected".(‡κό¨8υΖ“ίο.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΉχψΫϊÿÿÿÿ
+D
+java:S14443"'Make this "public static e" field final(ΙΨΝ8Η‹ίο.
+I
+java:S14445",Make this "public static parent" field final(‡κό¨8υΖ“ίο.
+<
+java:S16593"Declare "e" on a separate line.(ΙΨΝ8Η‹ίο.
+j
+java:S11043"MMake v a static final constant or non-public and provide accessors if needed.(ΙΨΝ8Η‹ίο.
+Z
+java:S1197I"8Move the array designator from the variable to the type.(΅ώΟΦψÿÿÿÿ8“•ίο.
+’
+java:S13197"pThe type of the "edges" object should be an interface such as "List" rather than the implementation "ArrayList".(–Πÿÿÿÿÿ8ª”Ήίο.
+o
+java:S11045"RMake parent a static final constant or non-public and provide accessors if needed.(‡κό¨8υΖ“ίο.
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(½„¤‡8Ά΅Υίο.
+M
+java:S14447"+Make this "public static edges" field final(–Πÿÿÿÿÿ8ª”Ήίο.

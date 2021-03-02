@@ -1,0 +1,61 @@
+
+p
+java:S1104="NMake dx a static final constant or non-public and provide accessors if needed.(ƒ€‰õûÿÿÿÿ8ŠíÁÁò.
+?
+java:S2386>"Make this member "protected".(ãï™şúÿÿÿÿ8úêæÂò.
+J
+java:S1444>"(Make this "public static dy" field final(ãï™şúÿÿÿÿ8úêæÂò.
+A
+java:S16597"Declare "y" on a separate line.(Ê´ûãıÿÿÿÿ8úêæÂò.
+I
+java:S14447"'Make this "public static x" field final(Ê´ûãıÿÿÿÿ8úêæÂò.
+:
+java:S2386;"Make this member "protected".(Ğ¶Æ8ŠĞùÁò.
+I
+java:S14447"'Make this "public static y" field final(Ê´ûãıÿÿÿÿ8úêæÂò.
+o
+java:S11047"MMake y a static final constant or non-public and provide accessors if needed.(Ê´ûãıÿÿÿÿ8úêæÂò.
+p
+java:S11049"TMake examiner a static final constant or non-public and provide accessors if needed.(ü¹¨x8«³™Àò.
+o
+java:S11047"MMake n a static final constant or non-public and provide accessors if needed.(Ê´ûãıÿÿÿÿ8«³™Àò.
+p
+java:S1104>"NMake dy a static final constant or non-public and provide accessors if needed.(ãï™şúÿÿÿÿ8úêæÂò.
+Z
+java:S1197]"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8¦ÉÃò.
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(´µ®8¦ÉÃò.
+H
+java:S1444;"+Make this "public static virus" field final(Ğ¶Æ8šìšÁò.
+J
+java:S14449".Make this "public static examiner" field final(ü¹¨x8«³™Àò.
+A
+java:S16597"Declare "s" on a separate line.(Ê´ûãıÿÿÿÿ8úêæÂò.
+I
+java:S14447"'Make this "public static n" field final(Ê´ûãıÿÿÿÿ8«³™Àò.
+?
+java:S2386="Make this member "protected".(ƒ€‰õûÿÿÿÿ8ŠíÁÁò.
+o
+java:S11047"MMake s a static final constant or non-public and provide accessors if needed.(Ê´ûãıÿÿÿÿ8úêæÂò.
+J
+java:S1444="(Make this "public static dx" field final(ƒ€‰õûÿÿÿÿ8ŠíÁÁò.
+o
+java:S11047"MMake k a static final constant or non-public and provide accessors if needed.(Ê´ûãıÿÿÿÿ8«³™Àò.
+I
+java:S14447"'Make this "public static k" field final(Ê´ûãıÿÿÿÿ8«³™Àò.
+A
+java:S16597"Declare "k" on a separate line.(Ê´ûãıÿÿÿÿ8úêæÂò.
+A
+java:S16597"Declare "x" on a separate line.(Ê´ûãıÿÿÿÿ8úêæÂò.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æöÛı
+Q
+java:S1066S"/Merge this if statement with the enclosing one.(”ÎÿÆúÿÿÿÿ8ˆÈÄÃò.
+v
+java:S12100"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ªÇÇ8úêæÂò.
+o
+java:S11047"MMake x a static final constant or non-public and provide accessors if needed.(Ê´ûãıÿÿÿÿ8úêæÂò.
+I
+java:S14447"'Make this "public static s" field final(Ê´ûãıÿÿÿÿ8úêæÂò.
+E
+java:S2386f"#Make member "examiner" "protected".(éøêùüÿÿÿÿ8¦ÉÃò.
+n
+java:S1104;"QMake virus a static final constant or non-public and provide accessors if needed.(Ğ¶Æ8šìšÁò.

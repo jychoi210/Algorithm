@@ -1,0 +1,43 @@
+
+I
+java:S1444"'Make this "public static n" field final(×š‡½üÿÿÿÿ8ñ¼ÙÔï.
+s
+java:S1104 "QMake graph a static final constant or non-public and provide accessors if needed.(„úÀ„úÿÿÿÿ8Ê˜ñÔï.
+?
+java:S2386""Make this member "protected".(òÛÓöùÿÿÿÿ8ñ¼ÙÔï.
+O
+java:S1444""-Make this "public static visited" field final(òÛÓöùÿÿÿÿ8ñ¼ÙÔï.
+Z
+java:S1197N"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8óã¤Õï.
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(İ—©™8óã¤Õï.
+’
+java:S1319 "pThe type of the "graph" object should be an interface such as "List" rather than the implementation "ArrayList".(„úÀ„úÿÿÿÿ8Ê˜ñÔï.
+E
+java:S1659"#Declare "start" on a separate line.(×š‡½üÿÿÿÿ8Ê˜ñÔï.
+?
+java:S2386#"Make this member "protected".(¸¸¿èûÿÿÿÿ8­ëÜÔï.
+s
+java:S1104"QMake start a static final constant or non-public and provide accessors if needed.(×š‡½üÿÿÿÿ8Ê˜ñÔï.
+?
+java:S2386 "Make this member "protected".(„úÀ„úÿÿÿÿ8Ê˜ñÔï.
+o
+java:S1104"MMake m a static final constant or non-public and provide accessors if needed.(×š‡½üÿÿÿÿ8ñ¼ÙÔï.
+r
+java:S1104#"PMake dist a static final constant or non-public and provide accessors if needed.(¸¸¿èûÿÿÿÿ8­ëÜÔï.
+{
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(„úÀ„úÿÿÿÿ8Ê˜ñÔï.
+L
+java:S1444#"*Make this "public static dist" field final(¸¸¿èûÿÿÿÿ8­ëÜÔï.
+I
+java:S1444"'Make this "public static m" field final(×š‡½üÿÿÿÿ8ñ¼ÙÔï.
+u
+java:S1104""SMake visited a static final constant or non-public and provide accessors if needed.(òÛÓöùÿÿÿÿ8ñ¼ÙÔï.
+o
+java:S1104"MMake n a static final constant or non-public and provide accessors if needed.(×š‡½üÿÿÿÿ8ñ¼ÙÔï.
+M
+java:S1444"+Make this "public static start" field final(×š‡½üÿÿÿÿ8Ê˜ñÔï.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸Ïè
+M
+java:S1444 "+Make this "public static graph" field final(„úÀ„úÿÿÿÿ8Ê˜ñÔï.
+A
+java:S1659"Declare "m" on a separate line.(×š‡½üÿÿÿÿ8ñ¼ÙÔï.

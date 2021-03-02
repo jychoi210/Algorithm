@@ -1,0 +1,34 @@
+
+Z
+java:S1197_"8Move the array designator from the variable to the type.(Óá¥âıÿÿÿÿ8“ÆÑÊô.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óéÂ¨şÿÿÿÿ
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(Ù©È±8“ÆÑÊô.
+F
+java:S1444)")Make this "public static arr" field final(Ê•·®8‹ì¬Îô.
+?
+java:S2386*"Make this member "protected".(ŒË„åüÿÿÿÿ8‹ì¬Îô.
+l
+java:S1104)"OMake arr a static final constant or non-public and provide accessors if needed.(Ê•·®8‹ì¬Îô.
+‹
+java:S1319)"nThe type of the "arr" object should be an interface such as "List" rather than the implementation "ArrayList".(Ê•·®8‹ì¬Îô.
+‹
+java:S1319""nThe type of the "arr" object should be an interface such as "List" rather than the implementation "ArrayList".(¢ƒ÷¶8‘„ÆÎô.
+—
+java:S1319*"uThe type of the "reverseArr" object should be an interface such as "List" rather than the implementation "ArrayList".(ŒË„åüÿÿÿÿ8‹ì¬Îô.
+R
+java:S1444*"0Make this "public static reverseArr" field final(ŒË„åüÿÿÿÿ8‹ì¬Îô.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ê‚‰Á8˜‘ÖÎô.
+v
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê•·®8º¶«Îô.
+‹
+java:S1319"nThe type of the "arr" object should be an interface such as "List" rather than the implementation "ArrayList".(ì¥ä×8‘„ÆÎô.
+{
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒË„åüÿÿÿÿ8‹ì¬Îô.
+x
+java:S1104*"VMake reverseArr a static final constant or non-public and provide accessors if needed.(ŒË„åüÿÿÿÿ8‹ì¬Îô.
+:
+java:S2386)"Make this member "protected".(Ê•·®8‹ì¬Îô.
+{
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(„§ºÊıÿÿÿÿ8ñö¯Îô.
+
+java:S1319"nThe type of the "arr" object should be an interface such as "List" rather than the implementation "ArrayList".(âù·÷úÿÿÿÿ8‘„ÆÎô.

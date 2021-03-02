@@ -1,0 +1,19 @@
+
+g	java:S101G"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†Æ´ýÿÿÿÿ
+i
+java:S1450"TRemove the "value" field and declare it as a local variable in the relevant methods.(ÉŠH
+S
+java:S1197H"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(ÌÄ­
+@
+java:S1481P"*Remove this unused "count" local variable.(æÕ¿¼
+D
+java:S1481Q")Remove this unused "flag" local variable.(ŸÿáÑÿÿÿÿÿ
+C
+java:S1068"-Remove this unused "character" private field.(îßÇ®
+>
+java:S1068")Remove this unused "value" private field.(ÉŠH
+>
+java:S1068"(Remove this unused "leaf" private field.(¤¦œ¡
+L
+java:S1068"6Remove this unused "indexOfSingleChild" private field.(©Þáü

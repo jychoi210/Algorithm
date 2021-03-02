@@ -1,0 +1,21 @@
+
+v
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹®ò×8¼íé­ğ.
+Z
+java:S1197,"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8Øİ¨©ğ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¦ÀÀøÿÿÿÿ
+D
+java:S1444("'Make this "public static n" field final(ÓœşÚ8’¬©ğ.
+:
+java:S2386*"Make this member "protected".(¹®ò×8€”Î©ğ.
+‘
+java:S1319*"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(¹®ò×8€”Î©ğ.
+r
+java:S1104*"UMake arrayList a static final constant or non-public and provide accessors if needed.(¹®ò×8€”Î©ğ.
+L
+java:S1444*"/Make this "public static arrayList" field final(¹®ò×8€”Î©ğ.
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(¤Âê€ùÿÿÿÿ8»Ì‚ªğ.
+j
+java:S1104("MMake n a static final constant or non-public and provide accessors if needed.(ÓœşÚ8’¬©ğ.
+v
+java:S1210 "YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(â‚ß8æ„ÿ­ğ.

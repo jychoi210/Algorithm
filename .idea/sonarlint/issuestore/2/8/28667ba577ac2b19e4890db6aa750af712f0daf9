@@ -1,0 +1,19 @@
+
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(ÂÕìü8É¯Ş€ò.
+v
+java:S3012("YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ËÌ—Ï8«ßÒ€ò.
+v
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï» »8ÅøÖ€ò.
+v
+java:S3012;"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(€®ø8ÅøÖ€ò.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úü’
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ôâî„øÿÿÿÿ8«ßÒ€ò.
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(°„ûÔ8Üà€ò.
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(à£ê8«ßÒ€ò.
+Z
+java:S1197b"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8”Õ€ò.
+g	java:S1015"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Äì¦ıÿÿÿÿ
+o
+java:S37766"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(©â…‰8ÅøÖ€ò.

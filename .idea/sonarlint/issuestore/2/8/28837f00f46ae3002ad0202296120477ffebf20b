@@ -1,0 +1,9 @@
+
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ßº“î8Ð¨­°ñ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úü’Ž
+Z
+java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8–‡š¢ñ.
+>
+java:S1643$"Use a StringBuilder instead.(„ˆ¾Œúÿÿÿÿ8Öí˜°ñ.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(²Á€œüÿÿÿÿ8áØÔ¯ñ.

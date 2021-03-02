@@ -1,0 +1,53 @@
+
+i
+java:S1104%"MMake n a static final constant or non-public and provide accessors if needed.(£Ú÷38âËÑÍñ.
+n
+java:S1104&"QMake board a static final constant or non-public and provide accessors if needed.(±š¯’8¥×ãÍñ.
+Z
+java:S1197m"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8İëäÊñ.
+:
+java:S2386("Make this member "protected".(øôì 8ßÅñÍñ.
+o
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÂÇÄã8ˆùˆÎñ.
+C
+java:S1444%"'Make this "public static k" field final(£Ú÷38âËÑÍñ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úü’
+p
+java:S1104'"NMake dx a static final constant or non-public and provide accessors if needed.(ƒ€‰õûÿÿÿÿ8ßÅñÍñ.
+E
+java:S1444("(Make this "public static dy" field final(øôì 8ßÅñÍñ.
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8³ö¿Îñ.
+q
+java:S1104)"UMake direction a static final constant or non-public and provide accessors if needed.(¼ú¸k8ˆùˆÎñ.
+;
+java:S1659%"Declare "k" on a separate line.(£Ú÷38âËÑÍñ.
+B
+java:S2386r" Make member "board" "protected".(ã¼ß×ùÿÿÿÿ8á¶ÆÎñ.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8³ö¿Îñ.
+K
+java:S1444)"/Make this "public static direction" field final(¼ú¸k8ˆùˆÎñ.
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¿·÷çüÿÿÿÿ8¦ÒàÍñ.
+J
+java:S1444'"(Make this "public static dx" field final(ƒ€‰õûÿÿÿÿ8ßÅñÍñ.
+H
+java:S1444&"+Make this "public static board" field final(±š¯’8¥×ãÍñ.
+g	java:S101$"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£À·¼úÿÿÿÿ
+?
+java:S2386'"Make this member "protected".(ƒ€‰õûÿÿÿÿ8ßÅñÍñ.
+i
+java:S1104%"MMake l a static final constant or non-public and provide accessors if needed.(£Ú÷38âËÑÍñ.
+C
+java:S1444%"'Make this "public static l" field final(£Ú÷38âËÑÍñ.
+;
+java:S1659%"Declare "l" on a separate line.(£Ú÷38âËÑÍñ.
+C
+java:S1444%"'Make this "public static n" field final(£Ú÷38âËÑÍñ.
+<
+java:S1659,"Declare "y" on a separate line.(äÛÁ”8¼âÍñ.
+i
+java:S1104%"MMake k a static final constant or non-public and provide accessors if needed.(£Ú÷38âËÑÍñ.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(©Šùÿÿÿÿ8³ö¿Îñ.
+k
+java:S1104("NMake dy a static final constant or non-public and provide accessors if needed.(øôì 8ßÅñÍñ.
+9
+java:S2386)"Make this member "protected".(¼ú¸k8ˆùˆÎñ.

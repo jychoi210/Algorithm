@@ -1,0 +1,21 @@
+
+7
+java:S1643+"Use a StringBuilder instead.(¨©óûûÿÿÿÿ
+k	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ìøİúÿÿÿÿ
+7
+java:S1643'"Use a StringBuilder instead.(¨©óûûÿÿÿÿ
+t
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(´ÖŒÚıÿÿÿÿ
+q
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "data".(ÁÁÍx
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Åõâ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Š‹¿ëùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°Ô„Ëûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜”µÖùÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(“’„
+S
+java:S11977"8Move the array designator from the variable to the type.(‡Ìøİúÿÿÿÿ
+f	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÈÚó

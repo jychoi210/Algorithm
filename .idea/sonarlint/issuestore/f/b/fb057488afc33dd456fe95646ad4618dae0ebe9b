@@ -1,26 +1,26 @@
 
-Z
-java:S1197"8Move the array designator from the variable to the type.(°юѕ÷ш€€€€8™Љщин.
-s
-java:S1104
-"QMake graph a static final constant or non-public and provide accessors if needed.(пТЋкъ€€€€8икнин.
-{
-java:S2293
-"YReplace the type specification in this constructor call with the diamond operator ("<>").(пТЋкъ€€€€8икнин.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(вЭ≥бщ€€€€8Бюпин.
-p
-java:S1104	"SMake visited a static final constant or non-public and provide accessors if needed.(ГфРџ8икнин.
-Т
-java:S1319
-"pThe type of the "graph" object should be an interface such as "List" rather than the implementation "ArrayList".(пТЋкъ€€€€8икнин.
-?
-java:S2386
-"Make this member "protected".(пТЋкъ€€€€8икнин.
-J
-java:S1444	"-Make this "public static visited" field final(ГфРџ8икнин.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(жцџэ
 M
 java:S1444
 "+Make this "public static graph" field final(пТЋкъ€€€€8икнин.
+Т
+java:S1319
+"pThe type of the "graph" object should be an interface such as "List" rather than the implementation "ArrayList".(пТЋкъ€€€€8икнин.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(жцџэ
 :
 java:S2386	"Make this member "protected".(ГфРџ8икнин.
+?
+java:S2386
+"Make this member "protected".(пТЋкъ€€€€8икнин.
+{
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(пТЋкъ€€€€8икнин.
+Z
+java:S1197"8Move the array designator from the variable to the type.(°юѕ÷ш€€€€8™Љщин.
+p
+java:S1104	"SMake visited a static final constant or non-public and provide accessors if needed.(ГфРџ8икнин.
+J
+java:S1444	"-Make this "public static visited" field final(ГфРџ8икнин.
+s
+java:S1104
+"QMake graph a static final constant or non-public and provide accessors if needed.(пТЋкъ€€€€8икнин.

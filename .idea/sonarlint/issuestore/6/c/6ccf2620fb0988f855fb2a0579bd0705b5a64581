@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8°Ê‹şï.
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8·ÙÉıï.
+X	java:S125$"<This block of commented-out lines of code should be removed.(Ÿ‘¹İ8Ò’Œşï.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¦ÀÀøÿÿÿÿ

@@ -1,0 +1,12 @@
+
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(¸•ì8¯­Ãúü.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÏèŞøÿÿÿÿ
+Z
+java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8çØ¿©ó.
+Q
+java:S1066<"/Merge this if statement with the enclosing one.(¶¦¥şÿÿÿÿ8ğàÂúü.
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(£©‚ß8¯­Ãúü.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(²Á€œüÿÿÿÿ8ğ®ªó.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¢Âúü.
