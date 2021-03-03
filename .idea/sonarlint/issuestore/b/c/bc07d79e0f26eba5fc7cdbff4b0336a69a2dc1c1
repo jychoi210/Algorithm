@@ -1,11 +1,11 @@
 
 {
-java:S1210 "YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¬îéÉúÿÿÿÿ8±·´ó.
-{
 java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ®Ñüÿÿÿÿ8ÒÓ’¡ó.
-Z	java:S106F"9Replace this use of System.out or System.err by a logger.(µ°×åúÿÿÿÿ8ØÈ¡ó.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óû³ö
-Z
-java:S1197,"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8ÒÓ’¡ó.
 I
 java:S1128",Remove this unused import 'java.util.Queue'.(Äá™ô8Äé˜µş.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(µ°×åúÿÿÿÿ8ØÈ¡ó.
+Z
+java:S1197,"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8ÒÓ’¡ó.
+{
+java:S1210 "YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¬îéÉúÿÿÿÿ8±·´ó.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óû³ö

@@ -1,54 +1,54 @@
 
-o
-java:S11043"MMake z a static final constant or non-public and provide accessors if needed.(‰Άάρόÿÿÿÿ8¶Ί”χ.
+v
+java:S1210+"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Ώ¬Άπ8΅μ¥“χ.
 I
-java:S14443"'Make this "public static x" field final(‰Άάρόÿÿÿÿ8¶Ί”χ.
+java:S14443"'Make this "public static y" field final(‰Άάρόÿÿÿÿ8¶Ί”χ.
+I
+java:S14443"'Make this "public static z" field final(‰Άάρόÿÿÿÿ8¶Ί”χ.
 o
 java:S11043"MMake y a static final constant or non-public and provide accessors if needed.(‰Άάρόÿÿÿÿ8¶Ί”χ.
-o
-java:S11042"RMake parent a static final constant or non-public and provide accessors if needed.(τραΙ8έο’χ.
-U	java:S106o"9Replace this use of System.out or System.err by a logger.(½„¤‡8γ¨–”χ.
-o
-java:S11043"MMake x a static final constant or non-public and provide accessors if needed.(‰Άάρόÿÿÿÿ8¶Ί”χ.
-{
-java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¨Άϊύϋÿÿÿÿ8§¶γ”χ.
-A
-java:S16593"Declare "y" on a separate line.(‰Άάρόÿÿÿÿ8¶Ί”χ.
-n	java:S1010"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Θ βωÿÿÿÿ8·°Ξ”χ.
-Z
-java:S1197B"8Move the array designator from the variable to the type.(²Α€όÿÿÿÿ8€ρΗ“χ.
-:
-java:S23864"Make this member "protected".(‘¥ÿ8¥³¤“χ.
-v
-java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(Η°†ο8Λΰ”χ.
-D
-java:S14441"'Make this "public static n" field final(ΣώΪ8έο’χ.
-j
-java:S11041"MMake n a static final constant or non-public and provide accessors if needed.(ΣώΪ8έο’χ.
+
+java:S13194"pThe type of the "dists" object should be an interface such as "List" rather than the implementation "ArrayList".(‘¥ÿ8¥³¤“χ.
 O
 java:S1128"-Remove this unused import 'java.util.Arrays'.(ξ–Ιόÿÿÿÿ8·ƒθ”χ.
 {
-java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(ξ†‰¤ύÿÿÿÿ8Λΰ”χ.
-I
-java:S14443"'Make this "public static z" field final(‰Άάρόÿÿÿÿ8¶Ί”χ.
-P
-java:S11218".Extract the assignment out of this expression.(΄Έ„¬ϋÿÿÿÿ8ψΉΐ“χ.
-H
-java:S14444"+Make this "public static dists" field final(‘¥ÿ8¥³¤“χ.
-I
-java:S14443"'Make this "public static y" field final(‰Άάρόÿÿÿÿ8¶Ί”χ.
-A
-java:S16593"Declare "z" on a separate line.(‰Άάρόÿÿÿÿ8¶Ί”χ.
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒΊΛΎύÿÿÿÿ8Λΰ”χ.
 C
 java:S2386I"!Make member "parent" "protected".(£„‘ϊÿÿÿÿ8ΏΊ”χ.
-I
-java:S14442",Make this "public static parent" field final(τραΙ8έο’χ.
-
-java:S13194"pThe type of the "dists" object should be an interface such as "List" rather than the implementation "ArrayList".(‘¥ÿ8¥³¤“χ.
-v
-java:S1210+"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Ώ¬Άπ8΅μ¥“χ.
+A
+java:S16593"Declare "y" on a separate line.(‰Άάρόÿÿÿÿ8¶Ί”χ.
 {
-java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒΊΛΎύÿÿÿÿ8Λΰ”χ.
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¨Άϊύϋÿÿÿÿ8§¶γ”χ.
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΉχψΫϊÿÿÿÿ
+P
+java:S11218".Extract the assignment out of this expression.(΄Έ„¬ϋÿÿÿÿ8ψΉΐ“χ.
+o
+java:S11043"MMake z a static final constant or non-public and provide accessors if needed.(‰Άάρόÿÿÿÿ8¶Ί”χ.
 n
 java:S11044"QMake dists a static final constant or non-public and provide accessors if needed.(‘¥ÿ8¥³¤“χ.
+D
+java:S14441"'Make this "public static n" field final(ΣώΪ8έο’χ.
+v
+java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(Η°†ο8Λΰ”χ.
+j
+java:S11041"MMake n a static final constant or non-public and provide accessors if needed.(ΣώΪ8έο’χ.
+{
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(ξ†‰¤ύÿÿÿÿ8Λΰ”χ.
+H
+java:S14444"+Make this "public static dists" field final(‘¥ÿ8¥³¤“χ.
+Z
+java:S1197B"8Move the array designator from the variable to the type.(²Α€όÿÿÿÿ8€ρΗ“χ.
+A
+java:S16593"Declare "z" on a separate line.(‰Άάρόÿÿÿÿ8¶Ί”χ.
+n	java:S1010"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Θ βωÿÿÿÿ8·°Ξ”χ.
+I
+java:S14442",Make this "public static parent" field final(τραΙ8έο’χ.
+o
+java:S11042"RMake parent a static final constant or non-public and provide accessors if needed.(τραΙ8έο’χ.
+o
+java:S11043"MMake x a static final constant or non-public and provide accessors if needed.(‰Άάρόÿÿÿÿ8¶Ί”χ.
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(½„¤‡8γ¨–”χ.
+I
+java:S14443"'Make this "public static x" field final(‰Άάρόÿÿÿÿ8¶Ί”χ.
+:
+java:S23864"Make this member "protected".(‘¥ÿ8¥³¤“χ.

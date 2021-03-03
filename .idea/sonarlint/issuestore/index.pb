@@ -423,3 +423,11 @@ U
 %BOJ/src/DynamicProgramming/Q1699.java,4/9/490f89427fed9350b68365006a261f20bd814ecf
 Q
 !BOJ/src/Implementation/Q1316.java,1/5/15b440cb85dcaaad6f4418b7636ce827b89b6f9d
+L
+BOJ/src/BFS/DFS/bj_bfs2.java,4/f/4fa35bc22c1c785fc2659e76e6b5a48d3326fc0c
+[
++.idea/sonarlint/issuestore/index[충돌].pb,5/c/5ca294d19b11c529eeeaeafb110fff100581fdc2
+=
+test/test.iml,8/e/8ec4fd9b8f0455e512313a7c992dfe21786be81c
+Q
+!BOJ/src/Implementation/Q2941.java,0/c/0cd6b2a03ea3c194974f074bf2ff729d7cb34250
