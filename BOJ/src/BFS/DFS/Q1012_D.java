@@ -8,13 +8,16 @@ import java.io.*;
 import java.util.*;
 
 public class Q1012_D {
+    // m x n 값과 배추 개수 k
     public static int m,n,k;
     public static int[][] map;
     public static boolean[][] visited;
+
     public static void main(String args[]) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
         StringBuilder sb = new StringBuilder();
+        // test 케이스 입력 받기
         int test = Integer.parseInt(br.readLine());
         int x, y;
 
@@ -28,6 +31,7 @@ public class Q1012_D {
             map = new int[m][n];
             visited = new boolean[m][n];
 
+            // 배추 k개의 정보 입력 받기
             for(int i = 0; i < k ; i++){
                 st = new StringTokenizer(br.readLine());
                 x = Integer.parseInt(st.nextToken());
@@ -35,6 +39,7 @@ public class Q1012_D {
                 map[x][y] = 1;
             }
 
+            // 밭에서 방문 안한 배추 위치를 방문하여 true로 바꾼 후, dfs()호출
             for(int i = 0; i < m; i++){
                 for(int j = 0; j < n; j++){
                     if(!visited[i][j] && map[i][j] == 1){
@@ -50,9 +55,13 @@ public class Q1012_D {
         System.out.print(sb.toString());
     }
 
+    // dfs 함수
     public static void dfs(int x, int y){
+        // x, y가 밭 범위를 벗어났다면 return
         if(x < 0 || x >= m || y < 0 || y >= n) return;
 
+        // 배추 위치라면, -1로 변경(방문 표시)
+        // 상하좌우에 대해 다시 dfs 호출
         if(map[x][y] == 1){
             map[x][y] = -1;
             dfs(x-1,y);
