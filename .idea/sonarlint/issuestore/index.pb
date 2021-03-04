@@ -431,3 +431,9 @@ L
 test/test.iml,8/e/8ec4fd9b8f0455e512313a7c992dfe21786be81c
 Q
 !BOJ/src/Implementation/Q2941.java,0/c/0cd6b2a03ea3c194974f074bf2ff729d7cb34250
+Q
+!BOJ/src/Implementation/Q7568.java,7/0/70cdb5ad27aa02371ad02fbae63daa7cb06224a7
+J
+BOJ/src/BFS/DFS/Q1697.java,a/9/a9f623c40e5026432232dee02b05f91bdd11bbe0
+U
+%BOJ/src/DynamicProgramming/Q1697.java,8/8/884f1ad4e269704e0cc9f625d1dbf302d06d3b89
