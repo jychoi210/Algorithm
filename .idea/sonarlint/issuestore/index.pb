@@ -437,3 +437,9 @@ J
 BOJ/src/BFS/DFS/Q1697.java,a/9/a9f623c40e5026432232dee02b05f91bdd11bbe0
 U
 %BOJ/src/DynamicProgramming/Q1697.java,8/8/884f1ad4e269704e0cc9f625d1dbf302d06d3b89
+L
+BOJ/src/BFS/DFS/Q1012_B.java,8/f/8f73fc5808f65471425d7304ee29ae8ff4693112
+L
+BOJ/src/BFS/DFS/Q1012_D.java,c/b/cb5b6b4d20d8cd36c2b0293fe47b134fb63bf1ca
+Q
+!BOJ/src/Implementation/Q1966.java,b/c/bc4c986e85c0b30b4153b5834badcd8b4e136522

@@ -1,25 +1,25 @@
 
-Z
-java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8Û€¡Âö.
-U	java:S1062"9Replace this use of System.out or System.err by a logger.(½„¤‡8Ïñ­Âö.
-A
-java:S1659"Declare "p" on a separate line.(Ğ³î·ûÿÿÿÿ8ãÈÂö.
-:
-java:S2386"Make this member "protected".(‡êü¨8ãÈÂö.
 o
 java:S1104"RMake parent a static final constant or non-public and provide accessors if needed.(‡êü¨8ãÈÂö.
 I
-java:S1444"'Make this "public static g" field final(Ğ³î·ûÿÿÿÿ8ãÈÂö.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹÷øÛúÿÿÿÿ
-I
-java:S1444",Make this "public static parent" field final(‡êü¨8ãÈÂö.
-I
 java:S1444"'Make this "public static p" field final(Ğ³î·ûÿÿÿÿ8ãÈÂö.
-o
-java:S1104"MMake g a static final constant or non-public and provide accessors if needed.(Ğ³î·ûÿÿÿÿ8ãÈÂö.
-o
-java:S1104"MMake p a static final constant or non-public and provide accessors if needed.(Ğ³î·ûÿÿÿÿ8ãÈÂö.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(½„¤‡8Ïñ­Âö.
+A
+java:S1659"Declare "p" on a separate line.(Ğ³î·ûÿÿÿÿ8ãÈÂö.
+Z
+java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8Û€¡Âö.
 b	java:S101
 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ç…®Ö
+I
+java:S1444",Make this "public static parent" field final(‡êü¨8ãÈÂö.
+o
+java:S1104"MMake p a static final constant or non-public and provide accessors if needed.(Ğ³î·ûÿÿÿÿ8ãÈÂö.
+:
+java:S2386"Make this member "protected".(‡êü¨8ãÈÂö.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹÷øÛúÿÿÿÿ
 P
 java:S1121".Extract the assignment out of this expression.(´¸„¬ûÿÿÿÿ8¾ÆÁÂö.
+I
+java:S1444"'Make this "public static g" field final(Ğ³î·ûÿÿÿÿ8ãÈÂö.
+o
+java:S1104"MMake g a static final constant or non-public and provide accessors if needed.(Ğ³î·ûÿÿÿÿ8ãÈÂö.
