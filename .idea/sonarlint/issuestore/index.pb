@@ -443,3 +443,5 @@ L
 BOJ/src/BFS/DFS/Q1012_D.java,c/b/cb5b6b4d20d8cd36c2b0293fe47b134fb63bf1ca
 Q
 !BOJ/src/Implementation/Q1966.java,b/c/bc4c986e85c0b30b4153b5834badcd8b4e136522
+O
+BOJ/src/GraphTheory/Q11724.java,c/e/ce6991f3eeb074d168ae171f987dca4ea76cad18
