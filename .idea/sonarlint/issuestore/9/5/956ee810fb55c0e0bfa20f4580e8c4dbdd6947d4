@@ -1,12 +1,12 @@
 
-t
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ùï¾ÿÿÿÿÿ8¼Ï½ÖË.
 n
 java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8†ÚåÖË.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŸµÖú
 Z
 java:S1197"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ8—”üÔË.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(óŠÕÎÿÿÿÿÿ8¾çÅÖË.
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŸµÖú
-U	java:S106,"9Replace this use of System.out or System.err by a logger.(š¬½¬8ó“µ×Ë.
 Z	java:S106."9Replace this use of System.out or System.err by a logger.(¥‘ŸÄşÿÿÿÿ8¢ÖÖË.
 j	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÎƒ‘8à¤×ÖË.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(š¬½¬8ó“µ×Ë.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ùï¾ÿÿÿÿÿ8¼Ï½ÖË.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(óŠÕÎÿÿÿÿÿ8¾çÅÖË.

@@ -1,0 +1,16 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úü’
+t	java:S127'"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ÍÓ€¶ÿ.
+t	java:S1275"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8äÍõ¶ÿ.
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8Ö‰ÿµÿ.
+Q
+java:S10664"/Merge this if statement with the enclosing one.(¯™æğúÿÿÿÿ8äÍõ¶ÿ.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(¤Âê€ùÿÿÿÿ8äÍõ¶ÿ.
+t
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(²Á€œüÿÿÿÿ8Â¦ßÿ.
+t	java:S127."XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8‹°¶ÿ.
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8ååïÿ.
+y	java:S127!"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ıÿÿÿÿ8ÍÓ€¶ÿ.

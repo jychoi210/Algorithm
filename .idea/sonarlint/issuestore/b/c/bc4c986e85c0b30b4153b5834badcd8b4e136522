@@ -1,0 +1,49 @@
+
+=
+java:S1659"!Declare "max" on a separate line.(œÁ²L8©—ß“/
+H
+java:S1444"+Make this "public static queue" field final(°‹ƒı8›ä”“/
+B
+java:S2386" Make member "queue" "protected".(Âäµ§ùÿÿÿÿ8›ö “/
+[
+java:S1155-">Use isEmpty() to check whether the collection is empty or not.(İÃŸš8²¯ã“/
+i
+java:S1104"MMake n a static final constant or non-public and provide accessors if needed.(œÁ²L8›ä”“/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ŒË‰üÿÿÿÿ8›ä”“/
+[
+java:S1155<">Use isEmpty() to check whether the collection is empty or not.(ĞÔÀƒ8…Ûì“/
+Z
+java:S1197"8Move the array designator from the variable to the type.(ŒË‰üÿÿÿÿ8›ä”“/
+
+java:S1319"pThe type of the "queue" object should be an interface such as "List" rather than the implementation "ArrayList".(°‹ƒı8›ä”“/
+k
+java:S1104"OMake max a static final constant or non-public and provide accessors if needed.(œÁ²L8©—ß“/
+F
+java:S1444"*Make this "public static temp" field final(œÁ²L8ÅÒí“/
+>
+java:S1659""Declare "temp" on a separate line.(œÁ²L8ÅÒí“/
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(µ°×åúÿÿÿÿ8Ø°ø“/
+C
+java:S1444"'Make this "public static m" field final(œÁ²L8›ä”“/
+G
+java:S1444"+Make this "public static print" field final(œÁ²L8›ä”“/
+n
+java:S1104"QMake queue a static final constant or non-public and provide accessors if needed.(°‹ƒı8›ä”“/
+l
+java:S1104"PMake temp a static final constant or non-public and provide accessors if needed.(œÁ²L8ÅÒí“/
+m
+java:S1104"QMake print a static final constant or non-public and provide accessors if needed.(œÁ²L8›ä”“/
+i
+java:S1104"MMake m a static final constant or non-public and provide accessors if needed.(œÁ²L8›ä”“/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úü’
+?
+java:S1659"#Declare "print" on a separate line.(œÁ²L8›ä”“/
+E
+java:S1444")Make this "public static max" field final(œÁ²L8©—ß“/
+;
+java:S1659"Declare "m" on a separate line.(œÁ²L8›ä”“/
+C
+java:S1444"'Make this "public static n" field final(œÁ²L8›ä”“/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Âäµ§ùÿÿÿÿ8›ö “/
