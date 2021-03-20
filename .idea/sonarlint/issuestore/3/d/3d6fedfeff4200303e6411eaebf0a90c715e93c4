@@ -1,17 +1,17 @@
 
-E
-java:S1444"(Make this "public static dp" field final(‰É•®8›¤£øô.
 k
 java:S1104"NMake dp a static final constant or non-public and provide accessors if needed.(‰É•®8›¤£øô.
 :
 java:S2386"Make member "dp" "protected".(ÈÀë“8×Ú‹žõ.
-Z
-java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8—€ øô.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(½„¤‡8Ü×Œžõ.
 j
 java:S1104"MMake n a static final constant or non-public and provide accessors if needed.(ÓœþÚ8—€ øô.
-@
-java:S1659"#Declare "right" on a separate line.(³ÿ à8Ü×Œžõ.
 D
 java:S1444"'Make this "public static n" field final(ÓœþÚ8—€ øô.
+@
+java:S1659"#Declare "right" on a separate line.(³ÿ à8Ü×Œžõ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8—€ øô.
+E
+java:S1444"(Make this "public static dp" field final(‰É•®8›¤£øô.
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º®–ž
-U	java:S1065"9Replace this use of System.out or System.err by a logger.(½„¤‡8Ü×Œžõ.
