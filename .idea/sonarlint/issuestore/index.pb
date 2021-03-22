@@ -453,3 +453,9 @@ J
 BOJ/src/BFS/DFS/Q4963.java,4/c/4c4b320423bd3793befb9c5ae4646c7813a78671
 U
 %BOJ/src/DynamicProgramming/Q1463.java,d/b/dbadeb7408458a3c73e40485200e9073779c3d86
+I
+BOJ/src/String/Q1427.java,5/7/57dbe779de5923624f40ee76128819ff3382648b
+Q
+!BOJ/src/Implementation/Q1475.java,0/0/00ce6901069db7c1c227144d0ea3665129c0c083
+W
+'Programmers/src/level1/PickTwoNAdd.java,f/c/fcbb5dd73b9bd0c17755b5fa9bf77fe4d538a438
