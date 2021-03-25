@@ -1,12 +1,12 @@
 
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¯ë|
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¬Ñ×úÿÿÿÿ8‹ÆËìö.
 M
 java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ìı»ìö.
-z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¬Ñ×úÿÿÿÿ8‹ÆËìö.
+Z
+java:S1197+"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8°¿»ìö.
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìÁÅÿüÿÿÿÿ
 r
 java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8ì„Æìö.
 Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ë‘ĞØøÿÿÿÿ8°¿»ìö.
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¯ë|
-g	java:S101
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìÁÅÿüÿÿÿÿ
-Z
-java:S1197+"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8°¿»ìö.

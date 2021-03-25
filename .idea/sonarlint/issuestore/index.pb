@@ -459,3 +459,15 @@ Q
 !BOJ/src/Implementation/Q1475.java,0/0/00ce6901069db7c1c227144d0ea3665129c0c083
 W
 'Programmers/src/level1/PickTwoNAdd.java,f/c/fcbb5dd73b9bd0c17755b5fa9bf77fe4d538a438
+M
+BOJ/src/BruteForce/Q1065.java,d/3/d3544fcb3de7a8a35d7f58d96d1ed383aaf601d4
+Q
+!BOJ/src/Implementation/Q1476.java,d/4/d41a6fab45bbe7ef1f6c5f2970caf2b19a90a9c2
+I
+BOJ/src/String/Q1181.java,c/8/c8d3f7782f3ae94ccaa474d3d13ef470222c2241
+M
+BOJ/src/BruteForce/Q1018.java,1/2/128336031be1083a972f6df3c046ed7e79b08023
+R
+"BOJ/src/Implementation/Q14503.java,1/9/19dfac0748fd71e806b3a78b7e5a62a2152ad30f
+U
+%BOJ/src/DynamicProgramming/Q9251.java,4/4/44003b9c897f7642f5aac3115142e977207a4665

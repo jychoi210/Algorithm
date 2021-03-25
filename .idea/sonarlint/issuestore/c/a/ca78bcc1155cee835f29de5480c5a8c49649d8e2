@@ -1,7 +1,7 @@
 
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úü’Ž
 Z	java:S1060"9Replace this use of System.out or System.err by a logger.(µ°×åúÿÿÿÿ8Å¢•òð.
 O
 java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ëø’òð.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úü’Ž
 Z
 java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8â×”ñð.

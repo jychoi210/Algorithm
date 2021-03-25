@@ -1,19 +1,19 @@
 
-“
-java:S1319"qThe type of the "basket" object should be an interface such as "List" rather than the implementation "ArrayList".(ŠÆ¶úÿÿÿÿ8˜âùêö.
 ?
 java:S2386"Make this member "protected".(ŠÆ¶úÿÿÿÿ8˜âùêö.
-[
-java:S4973"9Use the "equals" method if value comparison was intended.(®¤Ô´úÿÿÿÿ8˜âùêö.
-t
-java:S1104"RMake result a static final constant or non-public and provide accessors if needed.(ï–ˆûøÿÿÿÿ8í¼ïêö.
 Z
 java:S1197:"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ä¶íìö.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ë‘ĞØøÿÿÿÿ8ä¶íìö.
+t
+java:S1104"RMake result a static final constant or non-public and provide accessors if needed.(ï–ˆûøÿÿÿÿ8í¼ïêö.
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(®¤Ô´úÿÿÿÿ8˜âùêö.
+“
+java:S1319"qThe type of the "basket" object should be an interface such as "List" rather than the implementation "ArrayList".(ŠÆ¶úÿÿÿÿ8˜âùêö.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¯ë|
 N
 java:S1444",Make this "public static basket" field final(ŠÆ¶úÿÿÿÿ8˜âùêö.
-Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ë‘ĞØøÿÿÿÿ8ä¶íìö.
 N
 java:S1444",Make this "public static result" field final(ï–ˆûøÿÿÿÿ8í¼ïêö.
 t
 java:S1104"RMake basket a static final constant or non-public and provide accessors if needed.(ŠÆ¶úÿÿÿÿ8˜âùêö.
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¯ë|

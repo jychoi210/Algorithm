@@ -1,33 +1,33 @@
 
-k
-java:S1104"NMake dy a static final constant or non-public and provide accessors if needed.(™õùî8ï™¹Îý.
+E
+java:S1444"(Make this "public static dy" field final(™õùî8ï™¹Îý.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úü’Ž
 s
 java:S1104"QMake board a static final constant or non-public and provide accessors if needed.(é‚†Çûÿÿÿÿ8ï™¹Îý.
-K
-java:S11210".Extract the assignment out of this expression.(¡œ‚â8Æ„¿Îý.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿²á³8ï™¹Îý.
 ?
-java:S2386"Make this member "protected".(é‚†Çûÿÿÿÿ8ï™¹Îý.
+java:S2386"Make this member "protected".(¾ùåäûÿÿÿÿ8ï™¹Îý.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÿõÍ<8ØÚ¯Îý.
 Z
 java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8À©Îý.
 r
 java:S1104"PMake memo a static final constant or non-public and provide accessors if needed.(¾ùåäûÿÿÿÿ8ï™¹Îý.
-L
-java:S1444"*Make this "public static memo" field final(¾ùåäûÿÿÿÿ8ï™¹Îý.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úü’Ž
-:
-java:S2386"Make this member "protected".(äÂ¦¦8ï™¹Îý.
-M
-java:S1444"+Make this "public static board" field final(é‚†Çûÿÿÿÿ8ï™¹Îý.
-E
-java:S1444"(Make this "public static dy" field final(™õùî8ï™¹Îý.
-k
-java:S1104"NMake dx a static final constant or non-public and provide accessors if needed.(äÂ¦¦8ï™¹Îý.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(ÿõÍ<8ØÚ¯Îý.
-E
-java:S1444"(Make this "public static dx" field final(äÂ¦¦8ï™¹Îý.
 :
 java:S2386"Make this member "protected".(™õùî8ï™¹Îý.
+L
+java:S1444"*Make this "public static memo" field final(¾ùåäûÿÿÿÿ8ï™¹Îý.
+k
+java:S1104"NMake dy a static final constant or non-public and provide accessors if needed.(™õùî8ï™¹Îý.
 ?
-java:S2386"Make this member "protected".(¾ùåäûÿÿÿÿ8ï™¹Îý.
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿²á³8ï™¹Îý.
+java:S2386"Make this member "protected".(é‚†Çûÿÿÿÿ8ï™¹Îý.
+:
+java:S2386"Make this member "protected".(äÂ¦¦8ï™¹Îý.
+E
+java:S1444"(Make this "public static dx" field final(äÂ¦¦8ï™¹Îý.
+k
+java:S1104"NMake dx a static final constant or non-public and provide accessors if needed.(äÂ¦¦8ï™¹Îý.
+K
+java:S11210".Extract the assignment out of this expression.(¡œ‚â8Æ„¿Îý.
+M
+java:S1444"+Make this "public static board" field final(é‚†Çûÿÿÿÿ8ï™¹Îý.
