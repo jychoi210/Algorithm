@@ -1,12 +1,12 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æöÛı
-U	java:S106f"9Replace this use of System.out or System.err by a logger.(Å¶áç8Òë¾÷ò.
-Z
-java:S1197:"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8¡éğôò.
-’
-java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ôâî„øÿÿÿÿ8§ë†õò.
 u
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(à£ê8§ë†õò.
+Z
+java:S1197:"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8¡éğôò.
 Z	java:S106e"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ8ÆÆÎ÷ò.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æöÛı
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(Å¶áç8Òë¾÷ò.
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ôâî„øÿÿÿÿ8§ë†õò.
 v
 java:S3012+"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ËÌ—Ï8§ë†õò.
