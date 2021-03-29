@@ -471,3 +471,11 @@ R
 "BOJ/src/Implementation/Q14503.java,1/9/19dfac0748fd71e806b3a78b7e5a62a2152ad30f
 U
 %BOJ/src/DynamicProgramming/Q9251.java,4/4/44003b9c897f7642f5aac3115142e977207a4665
+R
+"BOJ/src/Implementation/Q14500.java,d/2/d2955c6fb7ecfb8b22d6038363f94017aef4720d
+N
+BOJ/src/BruteForce/Q14889.java,d/f/df36adaafd5eaf1d57f6ad03a6f07169f032e6fa
+I
+BOJ/src/String/Q1541.java,b/8/b8f557b58f61422f063cd68cc7b20bed0bfbb7e0
+G
+algorithm/src/test.java,d/e/ded4f1fb4979bc664d00b9bbcb578eb3c012afbb
